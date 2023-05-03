@@ -15,7 +15,6 @@ export default function VideoItem({
   const onClick = () =>
     navigate(`/videos/watch/${id}`, {
       state: {
-        thumbnails,
         title,
         channelId,
         channelTitle,

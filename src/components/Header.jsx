@@ -1,9 +1,13 @@
 import { BsSearch } from "react-icons/bs";
+import { useNavigate } from "react-router-dom";
 
 export default function Header() {
+  const navigate = useNavigate();
+  const goHome = () => navigate("/");
+
   return (
-    <header className="fixed flex w-full justify-between items-center px-10 py-3">
-      <div>
+    <header className="fixed flex w-full justify-between items-center px-10 py-3 z-[1] bg-white">
+      <div onClick={goHome} className="cursor-pointer">
         <img
           className="w-24"
           src="https://logos-world.net/wp-content/uploads/2020/04/YouTube-Logo.png"

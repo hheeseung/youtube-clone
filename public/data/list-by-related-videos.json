@@ -1,0 +1,979 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "H9v4TL1qW7oeu43LWfH8TQIAM3o",
+  "nextPageToken": "CBkQAA",
+  "pageInfo": {
+    "totalResults": 183,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "O8Hk0qzMui9t8DC2JprhEwPTZGo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wIBZ7UcQmDU"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-28T14:21:02Z",
+        "channelId": "UCTQVIXvcHrR9jYoJ6qaBAow",
+        "title": "[최초공개] LE SSERAFIM(르세라핌) - UNFORGIVEN (feat. Nile Rodgers) (4K) | COMEBACKSHOW | Mnet 230501 방송",
+        "description": "[LE SSERAFIM COMEBACK SHOW UNFORGIVEN] LE SSERAFIM - UNFORGIVEN (feat. Nile Rodgers)\n[르세라핌 컴백쇼 언포기븐] 르세라핌 - 언포기븐 (feat. Nile Rodgers)\n\n#LE_SSERAFIM #르세라핌\n\nMore from #M2? :D\n\nFacebook:  https://www.facebook.com/MnetM2/\nTwitter:       https://twitter.com/M2MPD/\nInstagram: https://www.instagram.com/M2MPD/\nTikTok:       https://www.tiktok.com/@m2mpd",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wIBZ7UcQmDU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wIBZ7UcQmDU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wIBZ7UcQmDU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wIBZ7UcQmDU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wIBZ7UcQmDU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "M2",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-28T14:21:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vQyH_LNXLjqEU4J1dKX6HRJeU1c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "G89zYm30v1M"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-29T02:18:32Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "ENHYPEN (엔하이픈) 'DARK BLOOD' Concept Trailer",
+        "description": "ENHYPEN (엔하이픈) 'DARK BLOOD' Concept Trailer\n\nCredits:\nWritten and Directed by : Yu Kwang Goeng\nForeteller Boy : Nam Si Hyun\nCo-Production : MAT & MATTERS\nExecutive Producer : Kim Yong Min\n1st Assistant Director : Park Jae Yong\n2nd Assistant Director : Jung Sae Byeol\nLine Producer : Song Yun Won, Lee Jae Yeon, Ji Seol A, Lee Ga Won\n\nVisual Creative: Serian Heu, Gunhee Lee, Minsoo Cha, Jihoon Lee\nBrand Experience Design : Myeongseo Ko, Minji Kim, Heewon Moon \nArtist Management : Sungjin Park, Shindong Rhee, Byungwook Kang, Hangil Kim, Soohyun Woo, Jayoung Yoon, Hyunji Lee, Yuki Hong  \n\nDirector of Photography : Han Sang Gil\n1st Assistant Camera : Chae Hwi Byung\n2nd Assistant Camera : Gang Gyeong Seo\n3rd Assistant Camera : Cho Gyu Hyeon\nData Manager : Ji Hye Na, Son Woo Seok\nFilm Loader : Service Kim\nSteadicam Operator : Kim Dong Joo\nSteadicam Assistants : Jang Han Bit, Kim Si Eung\nUltimate Arm Camera Operator : Lee Hak Song\nUltimate Arm Technicians : Lee Sang Jo, Lee Sung Jun, Kim Do Yoon, An Jun Hwan\nDrone Technicians : Jo Kyung Chun, Lee Jae Hoon, Park Sang Moon, Lee Jae Hoon \n\nProduction Designer (@feb14art) : Chun Eun Jung\nArt Department Coordinator : Jeon Yu Jin\nArt Department Assistants : Kim Min Jeong, Ahn Jung Hyeon, Choi Byeong Gil, Kim Sang Jun, Kim Kyoung Kwan,\nShim Won Sub\nConstruction Crew : Kim Bo Ra, Pyeon Ha Nyul, Kim Jung Sik, Lee Jum Yeol, Choi Chang Joo, Kim Jung Hoon, Gang Eun Ji, Park Gun Ho\n\nGaffer : Kim Young Jun\nBest Boy Electric : Ko Sung Ho\nElectricians : Yoou Sung Ro, Kang Sol Bin, Cha Young Hun, Jeong Chan, Choi Young Kyu, Jang Ye Il, Kim Tae Yang, \nHeo Sang Yong\nGene Operator : Park Duck Yeon\n\nKey Grip : Choi Hyeong Kyu\nBest Boy Grip : Park Gun Young\nGrips : Lee Dong Geon, Lee Dong Il, Lee Sung Hee\n\nLocation Manager : Cho Kyoung Jong\nAssistant Location Manager : Park Dae Geun\n\nStunt Coordinator : Shin Yoo Sik\nStunt Double : Gim Dong Un, Jeong Seong Hun, Park Kyeong Do\nStunt Riggers : Seo Min Woo, Shin Kyeung Sik, Kim Yong Hoon, Lee Kang Young, Ryu Jae Hwan, Yoon Min Gyu,\nKim Ye Eun, Cho Min Kyo, Lee Jeong Hun, Park Hyun Woo, Noh Kyung Sub, Kim Yu Jun\nHorse Masters : Choi Sung Geun, Jang Hyun Seok, Song Myeong Seok\nSpecial Effects Technicians : Park Choul Young, Oh Won Jun, Park Jae Sung, Park Young Min, Seol Chong Young\n\nStylist : Jung Hye Jung, Ko Hyo Min\nMake-Up Artist : Ko Yu Kyung\nSpecial FX Make-Up Artist : Yoo Seung Hwi \nHair Stylist : Bang Ye Ji\nCasting By : Kim Ye Ji\n\nEditor (@EDITIN) : You Se Jin\nAssistant Editors : Lee Hyun Joon, Kang Min Seong \n\nVisual Effects Supervisor (@SOLID) : Jang Kang Ki \nVisual Effects Producers : Hwang Sul Hee, Moon Dong Min\n2D Artists : Park Kyoung Sun, Park Eun Young\n3D Artists : Yu Ban Seok, Cha In Ho, Lee Dong Hyeon, Lee Soo In\n\nColorist (@COLORGRAF) : Kim Soo Young\nAssistant Colorist : Song Eun Ji\n\nSound Supervisor (@BLUECAP) : Kim Suk Won\nSound Effect Editors : Kang Min Seok, Kim Hyun Joon, Oh Joon Hyeok\nDialogue & ADR : Jo Min Kyung\nFoley : Kim Hyun Joon\nTechnical Manager : Hong Yoon Sung\nSound Account & Admin : Oh Yeon Woo\nSound Production Manager : Kim Jamie\nRe-Recording Mixers (@KING KONG SOUND) : Jeon Il Ho\n\nProduction Assistants : Hong Seong Yong, Lee Ju Won, Song Jin Ho, Lee Myung Dong, Seo Hyeon Ho, Won Duong\n\nⓒ BELIFT LAB Inc. All Rights Reserved\n\nConnect with ENHYPEN\nOFFICIAL WEBSITE https://ENHYPEN.com\nENHYPEN Weverse https://www.weverse.io/enhypen \nOFFICIAL YOUTUBE https://www.youtube.com/ENHYPENOFFICIAL\nOFFICIAL TWITTER https://twitter.com/ENHYPEN\nENHYPEN TWITTER https://twitter.com/ENHYPEN_members\nOFFICIAL FACEBOOK https://www.facebook.com/officialENHYPEN\nOFFICIAL INSTAGRAM https://www.instagram.com/enhypen\nOFFICIAL TIKTOK  https://www.tiktok.com/@enhypen\nOFFICIAL WEIBO https://weibo.com/ENHYPEN\nOFFICIAL BILIBILI https://space.bilibili.com/3493119035181246\nOFFICIAL JAPAN TWITTER https://twitter.com/ENHYPEN_JP\n\n#ENHYPEN #엔하이픈 #DARKBLOOD",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G89zYm30v1M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G89zYm30v1M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G89zYm30v1M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/G89zYm30v1M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/G89zYm30v1M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "HYBE LABELS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-29T02:18:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vzvs4ubNh7guTSDUo24iVMHbtY8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4PU4ofbSZZU"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-02T02:57:05Z",
+        "channelId": "UC8-Th83bH_thdKZDJCrn88g",
+        "title": "SUGA: Haegeum | The Tonight Show Starring Jimmy Fallon",
+        "description": "Musical guest SUGA performs \"Haegeum\" for The Tonight Show.\n\nThe Tonight Show Starring Jimmy Fallon.  Stream now on Peacock: https://bit.ly/3gZJaNy\n\nSubscribe NOW to The Tonight Show Starring Jimmy Fallon: http://bit.ly/1nwT1aN\n \nWatch The Tonight Show Starring Jimmy Fallon Weeknights 11:35/10:35c\n \nGet more The Tonight Show Starring Jimmy Fallon: https://www.nbc.com/the-tonight-show\n \nJIMMY FALLON ON SOCIAL\nFollow Jimmy: http://Twitter.com/JimmyFallon\nLike Jimmy: https://Facebook.com/JimmyFallon\nFollow Jimmy: https://www.instagram.com/jimmyfallon/\nFollow Jimmy on TikTok: https://www.tiktok.com/@jimmyfallon\n\nTHE TONIGHT SHOW ON SOCIAL\nFollow The Tonight Show: http://Twitter.com/FallonTonight\nLike The Tonight Show: https://Facebook.com/FallonTonight\nFollow The Tonight Show: https://www.instagram.com/fallontonight/\nThe Tonight Show TikTok: https://www.tiktok.com/@fallontonight\nTonight Show Tumblr: http://fallontonight.tumblr.com\n \nThe Tonight Show Starring Jimmy Fallon features hilarious highlights from the show, including comedy sketches, music parodies, celebrity interviews, ridiculous games, and, of course, Jimmy's Thank You Notes and hashtags! You'll also find behind the scenes videos and other great web exclusives.\n \nGET MORE NBC\nNBC YouTube: http://bit.ly/1dM1qBH\nLike NBC: http://Facebook.com/NBC\nFollow NBC: http://Twitter.com/NBC\nNBC Instagram: http://instagram.com/nbctv\nNBC Tumblr: http://nbctv.tumblr.com/\n \nSUGA: Haegeum | The Tonight Show Starring Jimmy Fallon\nhttp://www.youtube.com/fallontonight\n\n#FallonTonight \n#SUGA\n#BTS",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4PU4ofbSZZU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4PU4ofbSZZU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4PU4ofbSZZU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4PU4ofbSZZU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4PU4ofbSZZU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Tonight Show Starring Jimmy Fallon",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-02T02:57:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8Vqmf1tLdDysiGBJxfVQmUEvLaw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZXCb9397iEs"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-27T08:09:56Z",
+        "channelId": "UCpjm6R2yqu1GZjYtsIiXR5w",
+        "title": "EP.2 르세라핌과 한,미,일 놀이 비교 | ODG",
+        "description": "ⓒ2023. Studio Solfa All rights reserved.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZXCb9397iEs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZXCb9397iEs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZXCb9397iEs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZXCb9397iEs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZXCb9397iEs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "odg",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-27T08:09:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "c9D1QNcN77BgjF2zWjOQuhyISH0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YudHcBIxlYw"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-31T01:47:45Z",
+        "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+        "title": "JISOO - ‘꽃(FLOWER)’ M/V",
+        "description": "JISOO - ‘꽃(FLOWER)’ \n\nABC 도레미만큼 착했던 나\n그 눈빛이 싹 변했지 어쩌면 이 또한 나니까\n \n난 파란 나비처럼 날아가\n잡지 못한 건 다 네 몫이니까\n활짝 꽃피웠던 시간도 이제 모두\n내겐 lie lie lie\n \n붉게 타버려진 너와 나\n난 괜찮아 넌 괜찮을까\n구름 한 점 없이 예쁜 날\n꽃향기만 남기고 갔단다\n꽃향기만 남기고 갔단다\n  \nYou and me, 미칠 듯이 뜨거웠지만\n처참하게 짓밟혀진 내 하나뿐인 라일락\n \n난 하얀 꽃잎처럼 날아가\n잡지 않은 것은 너니까\n살랑살랑 부는 바람에 이끌려\n봄은 오지만 우린 bye bye bye\n  \n붉게 타버려진 너와 나\n난 괜찮아 넌 괜찮을까\n구름 한 점 없이 예쁜 날\n꽃향기만 남기고 갔단다\n꽃향기만 남기고 갔단다\n \n이젠 안녕 goodbye\n뒤는 절대 안 봐\n미련이란 이름의 잎새 하나\n봄비에 너에게서 떨어져\n꽃향기만 남아\n \n꽃향기만 남기고 갔단다\n\nMore about BLACKPINK @\nhttp://www.blackpinkofficial.com/jisoo\nhttp://www.youtube.com/BLACKPINKOFFICIAL\nhttps://www.instagram.com/BLACKPINKOFFICIAL\nhttp://www.facebook.com/BLACKPINKOFFICIAL\nhttps://twitter.com/BLACKPINK\n\n#JISOO #지수 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #ME #TITLE #꽃 #FLOWER #MV #YG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YudHcBIxlYw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YudHcBIxlYw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YudHcBIxlYw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YudHcBIxlYw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YudHcBIxlYw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BLACKPINK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-31T01:47:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rFHlCnIy9bRUa5_aNDq5KWd4kic",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dzwuR99Ry98"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-18T07:58:20Z",
+        "channelId": "UCs-QBT4qkj_YiQw1ZntDO3g",
+        "title": "LE SSERAFIM (르세라핌) ‘ANTIFRAGILE’ Special Performance Video",
+        "description": "#LE_SSERAFIM #르세라핌 공식 채널\n#LE_SSERAFIM #르세라핌 OFFICIAL CHANNEL\n\nOFFICIAL INSTAGRAM https://www.instagram.com/le_sserafim/\nOFFICIAL TWITTER https://twitter.com/le_sserafim\nOFFICIAL JAPAN TWITTER https://twitter.com/le_sserafim_jp\nOFFICIAL FACEBOOK https://www.facebook.com/official.lesserafim/\nOFFICIAL WEVERSE https://weverse.onelink.me/qt3S/t2ra8uwj\nOFFICIAL V LIVE https://www.vlive.tv/channel/818FB5\nOFFICIAL WEIBO https://weibo.com/LESSERAFIM\nOFFICIAL BILIBILI https://space.bilibili.com/627577002",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dzwuR99Ry98/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dzwuR99Ry98/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dzwuR99Ry98/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dzwuR99Ry98/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dzwuR99Ry98/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "LE SSERAFIM",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-18T07:58:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xYUvPGFS352weyraOwCuTBPRvwM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jexw4yfeMnE"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-07T10:12:50Z",
+        "channelId": "UCSfYfiCYdm_GkOeNIdNLN3w",
+        "title": "[Full Album] NewJeans (뉴진스) - ALL SONGS (Playlist)",
+        "description": "[Full Album] NewJeans (뉴진스) - ALL SONGS (Playlist)\n\nTrack List:\n01. OMG\n02. Ditto\n03. Attention\n04. Hype Boy\n05. Cookie\n06. Hurt\n\nMV OMG :\nhttps://youtu.be/_ZAgIHmHLdc\nMV Ditto :\nhttps://youtu.be/pSUydWEqKwE\nMV Attention :\nhttps://youtu.be/js1CtxSY38I\nMV Hype Boy :\nhttps://youtu.be/11cta61wi0g\nMV Cookie :\nhttps://youtu.be/VOmIplFAGeg\nMV Hurt :\nhttps://youtu.be/tVIXY14aJms\n\n................................................................................\n\nTAGS: \nnewjeans 뉴진스 OMG\nnewjeans Ditto\nnewjeans attention lyrics\nhype boy lyrics\nnewjeans (뉴진스) cookie lyrics\nnewjeans 뉴진스 Hurt\n\n#NewJeans #뉴진스\n#Hurt #ditto #omg #hypeboy #attention #cookie  #NewJeans_Hurt\n#NJ_1st_EP_Album #WeareNewJeans\n#ADOR #어도어",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jexw4yfeMnE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jexw4yfeMnE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jexw4yfeMnE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jexw4yfeMnE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jexw4yfeMnE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Zenikk",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-07T10:12:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "g6nZjBNky295da0C-iV9D87lQVM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-GQg25oP0S4"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-24T01:35:31Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "SEVENTEEN (세븐틴) '손오공' Official MV",
+        "description": "SEVENTEEN (세븐틴) '손오공' Official MV\n\n#SEVENTEEN #세븐틴\n#FML\n#손오공 #Super\n\n\nCredits:\nProduction｜OUI PRODUCTION\nDirector｜Oui Kim\nProducer｜Yeonjin Kim, Hyunsik Bang\n1st AD｜Huiwon Song\n2nd AD｜Sunyoung Kim, Hyeri Shin\n\nDirector of Photography｜EumKo\nFocus Puller｜Youngwoo Lee\n2nd AC｜Eunil Lee\nDIT｜Yuntae Ko\n3rd AC｜Donghyun Lee\n\nScorpio Crane 38ft｜Service Vision Korea\nHead Tech｜Taehyun Choi\nCrane Oper｜Jisoo Woo\nCrane Tech｜Hakser Kim\nAssist｜Bumki Lee, Woojin Im\n\nDrone Team｜GodFinger\nDrone Opreator｜Minjae Lee\nGimbal Operator｜Junhwan Cha\n1st Assist｜Youngjun Park\n2nd Assist｜Euntae Lee\n\nGaffer｜Joonghyuk Jung\nCrew｜Hyunsuk Kim, Minhyeok Back, Hwayong Chung, Dongyun Sin, Yusung Han, Youngmin Choi\n\nShow Light｜Jshow company\nCrew｜Minseok Choi, Kisoon Kwak, Yebum Bang, Junho Jeong, Jiwoong Han, Yerim Kwon, Haeyoung Kang, Junki Jeong, Sebin Lee, Dongchul Park, Yongil Lee, Youngseo Park, Junhee Song\n\nArt｜Four\nArt Director｜Heeju Park\nArt team｜Hilda Yoon, DR Han, Jihyun Yoon, Dongwook Won, Dongsuk Won, Hwandyek Baek\n\nSFX｜DRAGON\nSFX Representative｜Choulyoung Park\nSFX Head｜Wonjun Oh, Jaesung Park\nSFX Team leader｜Chongyoung Seol\nSFX Team member｜Youngmin Park, Junhak Lee\n\nLocation Team｜it place\nCrew｜Eunjoo Choi, Kyeongwon Kim\n\nProduction Assistant｜Taein Jung, Dongkwon Kim, Hyeoksu Jang\n\nVFX｜SECONDFLOOR\nVFX Supervisior, FX Lead｜Daeyoung Byun\n2D Composite Lead｜Ayoung Lee\n\nVFX｜BYTS\n2D Composite Artist｜Daecheol Ha, Kyeongjin Lee\n\n2D Cleaning｜CORE Studio\nCrew｜Dohan Kim, Miyeon Lee\n\nColorist｜Changbeen Yu\nAssist｜Soyeon Kim\n\nConnect with SEVENTEEN\n\nOfficial Homepage : http://www.seventeen-17.com\nOfficial YouTube : https://www.youtube.com/pledis17\nOfficial Twitter : https://twitter.com/pledis_17\nOfficial Instagram : http://www.instagram.com/saythename_17\nOfficial Facebook : https://www.facebook.com/seventeennews\nOfficial TikTok : https://www.tiktok.com/@seventeen17_official\nOfficial Weverse : https://www.weverse.io/seventeen\nOfficial Fancafe : http://cafe.daum.net/pledis-17\n\nⓒ PLEDIS Entertainment. All Rights Reserved",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-GQg25oP0S4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-GQg25oP0S4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-GQg25oP0S4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-GQg25oP0S4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-GQg25oP0S4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "HYBE LABELS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-24T01:35:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9cMY7qsOBIm0OTd77BFXYvmru_k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IJks7TIDfnk"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-29T11:57:43Z",
+        "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+        "title": "[2022 MAMA] IVE&Kep1er&NMIXX&LESSERAFIM&NewJeans-ELEVEN+WADADA+O.O+FEARLESS+Hypeboy | Mnet 221129 방송",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f\n\n'LINNK the next generation'\nELEVEN + WADADA + O.O + FEARLESS + Hype boy by IVE&Kep1er&NMIXX&LE SSERAFIM&NewJeans in 2022 MAMA AWARDS\n \nWorld’s No.1 K-POP Awards\n2022 MAMA AWARDS\n#2022MAMA #MAMAAWARDS #2022MAMAAWARDS\n\n#티빙에서스트리밍",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IJks7TIDfnk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IJks7TIDfnk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IJks7TIDfnk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IJks7TIDfnk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IJks7TIDfnk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mnet K-POP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-29T11:57:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rxmbz6fMRfLmaHFEM4mhtE6RE9U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WdiSosDz4ss"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-21T07:01:16Z",
+        "channelId": "UC-clMkTZa7k-FxmNgMjoCgQ",
+        "title": "UNFORGIVEN (feat. Nile Rodgers)",
+        "description": "Provided to YouTube by SOURCE MUSIC\n\nUNFORGIVEN (feat. Nile Rodgers) · LE SSERAFIM · Nile Rodgers\n\nUNFORGIVEN\n\nReleased on: 2023-05-01\n\nAuto-generated by YouTube.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WdiSosDz4ss/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WdiSosDz4ss/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WdiSosDz4ss/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WdiSosDz4ss/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WdiSosDz4ss/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "LE SSERAFIM - Topic",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-21T07:01:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AGlHVukMz4bnBKog792xfiqLyeY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KMIhIdDSQ_A"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-25T09:36:05Z",
+        "channelId": "UCpjm6R2yqu1GZjYtsIiXR5w",
+        "title": "EP.1 \"안녕 Hi こんにちは\" 르세라핌의 한미일 친구 만들기 | ODG",
+        "description": "NEXT EPISODE : 4월 27일 오후 5시\n\nⓒ2023. Studio Solfa All rights reserved.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KMIhIdDSQ_A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KMIhIdDSQ_A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KMIhIdDSQ_A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KMIhIdDSQ_A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KMIhIdDSQ_A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "odg",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-25T09:36:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "W4Ptu_Y-8YPILp-bAKUBYAatasc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UaywgAqcLxI"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-15T03:29:48Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "지민 (Jimin) 'Set Me Free Pt.2' Official MV",
+        "description": "지민 (Jimin) 'Set Me Free Pt.2' Official MV\n\n'FACE' Release\n📆 3/24 1PM KST | 0AM ET\n💽 Pre-order & pre-save 'FACE': https://ingrv.es/face\n\nCredits:  \nProduction: OUI PRODUCTION\nDirector: Oui Kim\nProducer: Yeonjin Kim, Hyunsik Bang\n1st AD: Huiwon Song\n2nd AD: Sunyoung Kim, Hyeri Shin\n\nDirector of Photography: Andy Iere Kim\n1st AC: Heejeong Kim\n2nd AC: Jimin Kim\nDIT: Hyungjun An\n3rd AC: Yeoeun Ahn\n\nU-Crane arm Mini (Service Vision Korea)\nDriver: Hakser Kim\nHead Tech: Sangjo Lee\nCrane Oper: Yongguen Hwang\nAssist: Sungjun Lee\n\nScorpio Crane 38ft (Service Vision Korea)\nHead Tech: Sangjo Lee\nCrane Oper: Yongguen Hwang\nAssist: Bumki Lee, Kiwon Lee\n\nKey Grip: Kiheon Choi\nBest Boy: Sungeun Kim, jiin Whang\nGrip: Deaheon Choi\n\nDrone Team: GodFinger\nDrone Opreator: Minjae Lee\nGimbal Operator: Junhwan Cha\n1st Assist: Youngjun Park\n2nd Assist: Euntae Lee\n\nGaffer: Joonghyuk Jung\nCrew: Hyunsuk Kim, Minhyeok Back, Hwayong Chung, Dongyun Sin, Yusung Han, Youngmin Choi\n\nArt Director: Minkyu Jeon\nArt Team Lead: Yesol Kim\nArt Team: Youngmi Kim, Yoonhwan Kim\n\nShow Light: J SHOW COMPANY\nCrew: Minseok Choi, Kisoon Kwak, Yebum Bang, Junho Jeong, Jiwoong Han, Yerim Kwon, Haeyoung Kang, Junki Jeong, Sebin Lee\n\nColorist: Changbeen Yu\nAssist: Soyeon Kim\n\n\nBIGHIT MUSIC. Rights are reserved selectively in the video. Unauthorized reproduction is a violation of applicable laws. Manufactured by BIGHIT MUSIC, Seoul, Korea.\n\n\nConnect with BTS: \nhttps://ibighit.com/bts \nhttp://twitter.com/BTS_bighit\nhttp://twitter.com/BTS_twt \nhttp://www.facebook.com/bangtan.official \nhttps://www.youtube.com/user/BANGTANTV \nhttp://instagram.com/BTS.bighitofficial \nhttps://www.tiktok.com/@bts_official_bighit\nhttps://weverse.onelink.me/qt3S/94808190\nhttps://www.weibo.com/BTSbighit\nhttps://www.weibo.com/BTSmembers \nhttp://btsblog.ibighit.com\n\n\n#SetMeFree_Pt2 #지민 #Jimin #Jimin_FACE",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UaywgAqcLxI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UaywgAqcLxI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UaywgAqcLxI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UaywgAqcLxI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UaywgAqcLxI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "HYBE LABELS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-15T03:29:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wDd_dQ2AImlEWwSZQCugJlAVD_w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sVTy_wmn5SU"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-03T09:02:10Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "NewJeans (뉴진스) 'OMG' Official MV (Performance ver.1)",
+        "description": "NewJeans (뉴진스) 'OMG' Official MV (Performance ver.1)\n\nProducer: MIN HEE JIN\nMusic Video Director: Wooseok Shin (DOLPHINERS FILM)\n\nⓒ 2023 ADOR. All Rights Reserved.\n\nConnect with NewJeans\n\nPHONING https://phoning.onelink.me/KG15/n7452q87  \nOFFICIAL YOUTUBE https://www.youtube.com/c/NewJeans_official\nOFFICIAL WEBSITE https://newjeans.kr\nOFFICIAL INSTAGRAM https://www.instagram.com/newjeans_official\nOFFICIAL TWITTER https://twitter.com/NewJeans_ADOR\nOFFICIAL TIKTOK https://www.tiktok.com/@newjeans_official\nOFFICIAL JAPAN TWITTER https://twitter.com/@NewJeans_jp\nOFFICIAL WEIBO https://weibo.com/NewJeansADOR\nOFFICIAL BILIBILI https://space.bilibili.com/3493092783032940\n\n#NewJeans #뉴진스\n#NewJeans_OMG #NewJeans_Ditto\n#Year_of_NewJeans\n#ADOR #어도어",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sVTy_wmn5SU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sVTy_wmn5SU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sVTy_wmn5SU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sVTy_wmn5SU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sVTy_wmn5SU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "HYBE LABELS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-03T09:02:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2eh4Aciv7M6u4gG02gelVVSLHMI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6ZUIwj3FgUY"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-10T02:25:47Z",
+        "channelId": "UCYDmx2Sfpnaxg488yBpZIGg",
+        "title": "IVE 아이브 'I AM' MV",
+        "description": "STARSHIP SQUARE (Domestic) : https://bit.ly/3HtQ7GF\nSTARSHIP SQUARE (Global) : https://bit.ly/3JWPxm0\nIVE US EXCLUSIVE STORE : https://shop.ive-starship.com/  \n\nIVE Twitter\n: https://twitter.com/IVEstarship\n: https://twitter.com/IVE_twt\n: https://twitter.com/IVEstarship_JP\nIVE Instagram : https://instagram.com/IVEstarship\nIVE Facebook: https://fb.me/IVEstarship \nIVE Fancafe: https://cafe.daum.net/IVEstarship\nIVE TikTok: https://www.tiktok.com/@IVE.official\nIVE Weibo: https://weibo.com/ivestarship\n\n#IVE #아이브 #アイヴ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6ZUIwj3FgUY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6ZUIwj3FgUY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6ZUIwj3FgUY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6ZUIwj3FgUY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6ZUIwj3FgUY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "starshipTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-10T02:25:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DrPpkO7oG0G7gK2dw1pqD7ovDRA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4F1zwU1owE4"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-29T14:40:22Z",
+        "channelId": "UCOHM2N1YQdb-cHWxJxwBMLQ",
+        "title": "[아형✪하이라이트] 김채원 피셜 : 이번에 대박 날 거 같아... UNFORGIVEN으로 돌아온 '석양의 무법자' 르세라핌👿 | 아는 형님 | JTBC 230429 방송",
+        "description": "[아형✪하이라이트] 김채원 피셜 : 이번에 대박 날 거 같아... UNFORGIVEN으로 돌아온 '석양의 무법자' 르세라핌👿\n#아는형님 #하이라이트 #르세라핌\n\n📌 공홈에서 리플레이 : https://tv.jtbc.co.kr/jtbcbros\n📌 #티빙에서스트리밍 : https://tving.onelink.me/xHqC/1vihef6r\n\n〈아는 형님〉은 매주 토요일 저녁 8시 50분 본.방.사.수!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4F1zwU1owE4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4F1zwU1owE4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4F1zwU1owE4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4F1zwU1owE4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4F1zwU1owE4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아는형님 Knowingbros",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-29T14:40:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "peH8q4UZprCqgS_hxiTcltYgSYQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tD__IlATYZY"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-30T10:11:59Z",
+        "channelId": "UCS_hnpJLQTvBkqALgapi_4g",
+        "title": "SEVENTEEN(세븐틴) - Super(손오공) @인기가요 inkigayo 20230430",
+        "description": "SEVENTEEN - Super #SBSInkigayo_EP1180\n세븐틴 - 손오공 #SEVENTEEN #Super\n\nSBS Inkigayo(인기가요) is a Korean music program broadcast by SBS. \n\nThe show features some of K-pop artists’ performance every Sunday.\nCheck out this week’s Inkigayo Line up and meet your favorite artist!\n🔗bit.ly/3epKoUp",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tD__IlATYZY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tD__IlATYZY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tD__IlATYZY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tD__IlATYZY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tD__IlATYZY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "스브스케이팝 X INKIGAYO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-30T10:11:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "srFGkSTGIdJbjktduy_grTaTowI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zyfMsBYukMs"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-01T13:53:27Z",
+        "channelId": "UCs-QBT4qkj_YiQw1ZntDO3g",
+        "title": "[The 1st FIMILY Party] ‘Blue Flame’ Dance Practice (Fix ver.)",
+        "description": "#LE_SSERAFIM #르세라핌 공식 채널\n#LE_SSERAFIM #르세라핌 OFFICIAL CHANNEL\n\nOFFICIAL INSTAGRAM https://www.instagram.com/le_sserafim/\nOFFICIAL TWITTER https://twitter.com/le_sserafim\nOFFICIAL JAPAN TWITTER https://twitter.com/le_sserafim_jp\nOFFICIAL FACEBOOK https://www.facebook.com/official.lesserafim/\nOFFICIAL WEVERSE https://weverse.onelink.me/qt3S/t2ra8uwj\nOFFICIAL TIKTOK https://www.tiktok.com/@le_sserafim\nOFFICIAL WEIBO https://weibo.com/LESSERAFIM\nOFFICIAL BILIBILI https://space.bilibili.com/627577002",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zyfMsBYukMs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zyfMsBYukMs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zyfMsBYukMs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zyfMsBYukMs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zyfMsBYukMs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "LE SSERAFIM",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-01T13:53:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-AZ-wyCBBnmZF65RASXC1hb3_LM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9NZW0Utv2jg"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-27T02:37:12Z",
+        "channelId": "UCpBlDSUyOpP1WqWVJxZpGLg",
+        "title": "방탄소년단 - IDOL (MMA2018) | 레전드 무대 댓글 모음 #MMA2021",
+        "description": "2009년 MMA의 시작, 태초에 K-POP이 있었다\n\n이것이 K-퍼포먼스! 한국의 멋을 살린 IDOL\n🔥방탄소년단 - IDOL (MMA2018 ver.)🔥\n\n#MMA2021 #멜론 #melon #멜론melon #멜론MMA #MMA #melonmusicawards",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9NZW0Utv2jg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9NZW0Utv2jg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9NZW0Utv2jg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9NZW0Utv2jg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9NZW0Utv2jg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "멜론 Melon",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-27T02:37:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9St6UgTRgSoHReUMrH8iSYK4Ks8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LDqF_yMNCGY"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-01T08:19:14Z",
+        "channelId": "UCTQVIXvcHrR9jYoJ6qaBAow",
+        "title": "[Full Cam] LE SSERAFIM(르세라핌) - UNFORGIVEN (feat.Nile Rodgers) (4K) | LE SSERAFIM COMEBACK SHOW",
+        "description": "[LE SSERAFIM COMEBACK SHOW UNFORGIVEN] LE SSERAFIM - UNFORGIVEN (Full Cam)\n[르세라핌 컴백쇼 언포기븐] 르세라핌 - 언포기븐 (풀캠)\n\n#LE_SSERAFIM #르세라핌\n\nMore from #M2? :D\n\nFacebook:  https://www.facebook.com/MnetM2/\nTwitter:       https://twitter.com/M2MPD/\nInstagram: https://www.instagram.com/M2MPD/\nTikTok:       https://www.tiktok.com/@m2mpd",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LDqF_yMNCGY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LDqF_yMNCGY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LDqF_yMNCGY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LDqF_yMNCGY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LDqF_yMNCGY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "M2",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-01T08:19:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rD-tkEh2e743dk8vLxedyQMZeXA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pyf8cbqyfPs"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-16T12:27:03Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "LE SSERAFIM (르세라핌) 'ANTIFRAGILE' OFFICIAL M/V",
+        "description": "Creative Director : NU KIM\n\nVisual Creative : Yujoo Kim, Gabriel Cho, Yoon Cho, Sungwoong Moon\n\nA&R : Kyuyoung Kim, Sewon Kim, Yujeong Kim\n\nPerformance Directing : Soyeon Park\nAssistant Directing : Soyoung Yoon\n\nDirector : Soonsik Yang\nAssistant Director : JongYeop Kim, Yubin Han\n\nProducer : Emma Sungeun Kim (GE Production)\nLocation Manager : Hansaem Kim (itplace), Kyeongwon Kim (itplace)\nProduction Assistant : Hyo-seok Kim, Seungwon Choi, Byeongman Kim, Jihoo Ahn\n\nAcam Director of Photography : EumKo\nFocus Puller : Youngwoo Lee \n2nd AC : Eunil Lee\nDIT : Yuntae Go\n3rd AC : Donghyeon Lee\n\nBcam Director of Photography : Eunki Kim\nFocus Puller : Sungju Min\n2nd AC : Youngseo Park\n\nGaffer : Hyuk Park\nA Team Lighting Crew : Jeonghee Son, Hyeonggyun Kim, Younggyun Park, Jihyun Choi, Hyeonwoo Shin\nB Team Lighting Crew : Junmin Yang, Seounghyuk Kim,  Jeonghun Ju, Junha Ye, Heehune Lim, Jongseung Song\n\nArt director : Ok Shin (A:We)\nArt -Team Crew : Kyeng-ryen Dong, In-a Han, Minji Yun \n\nSFX Team : JUST\nSFX Supervisor : Dongho Lee, Changsok Kim\nSFX Technician : Chanmin Lee, Hyun Ahn\n\nJimmy Jib Operator : Dongjin Lee (jimmyjib_motion)\nJimmy Jib Assistant : Jeonghyun Yoo, Sungeum Jung\nDrone : Brother works  \n\nBike Stunt : Yonghak Kim, Youngjae Lee , Jeong-uk Jin, Taehyung Lee, Seonghyeon Lee, Sungsoon Kim, Sungbin Cho, Seungjae Lee, Jiwon Han\n\n3D VFX : Jaeyoung Kim (NEVV), Junghyun Heo (NEVV), Wonho Jung, Jungmin Lee\n\nDI : LUCID COLOUR\nColorist : Haewon Kwak \nDI Crew : Seonyoung Lee, Sujeong Park, Daseul Kim, Dongwoo Jo\nDI Producer : Onew Kim\n\nSOURCE MUSIC. Rights are reserved selectively in the video.\nUnauthorized reproduction is a violation of applicable laws.\nManufactured by SOURCE MUSIC, Seoul, Korea\n\nConnect with LE SSERAFIM\nOFFICIAL YOUTUBE https://www.youtube.com/channel/UCs-QBT4qkj_YiQw1ZntDO3g  \nOFFICIAL INSTAGRAM https://www.instagram.com/le_sserafim/\nOFFICIAL TWITTER https://twitter.com/le_sserafim\nOFFICIAL JAPAN TWITTER https://twitter.com/le_sserafim_jp\nOFFICIAL FACEBOOK https://www.facebook.com/official.lesserafim/\nOFFICIAL WEVERSE https://weverse.onelink.me/qt3S/t2ra8uwj\nOFFICIAL TIKTOK  https://www.tiktok.com/@le_sserafim\nOFFICIAL WEIBO https://weibo.com/LESSERAFIM\nOFFICIAL BILIBILI https://space.bilibili.com/627577002",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pyf8cbqyfPs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pyf8cbqyfPs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pyf8cbqyfPs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pyf8cbqyfPs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pyf8cbqyfPs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "HYBE LABELS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-16T12:27:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "le5kXdKfgtaRrhPLRRc_Ekps4SY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uBY1AoiF5Vo"
+      },
+      "snippet": {
+        "publishedAt": "2022-01-01T07:33:01Z",
+        "channelId": "UCcdX97nVNsZgAA0NxvHnU9w",
+        "title": "GOT the beat 갓 더 비트 'Step Back' Stage Video",
+        "description": "GOT the beat's 1st single \"Step Back\" is out!\nListen and download on your favorite platform: https://smarturl.it/GOTthebeat_StepBack\n\nGirls On Top Official\nhttps://www.youtube.com/GOT_smtown\nhttps://www.facebook.com/GirlsOnTop.SM\nhttps://www.instagram.com/girlsontop_sm\nhttps://twitter.com/GirlsOnTop_SM\nhttps://www.tiktok.com/@girlsontop_sm\n\n#GirlsOnTop #GOT #걸스온탑\n#GOT_the_beat #갓더비트 #StepBack\n#BoA #TAEYEON #HYOYEON #SEULGI #WENDY #KARINA #WINTER\n\nGOT the beat 'Step Back' Stage Video ℗ SM Entertainment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uBY1AoiF5Vo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uBY1AoiF5Vo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uBY1AoiF5Vo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uBY1AoiF5Vo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uBY1AoiF5Vo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Girls On Top",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-01-01T07:33:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_ci7sYD1Jfh5w7o-11yepAQwo5o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OWoEycYAbqo"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-29T14:38:59Z",
+        "channelId": "UCF3UEVPt5zZTlBVJwDG317g",
+        "title": "무대 찢는 빌런 르세라핌(LE SSERAFIM) UNFORGIVEN 최초 공개😈 심장 마구 저격하는 퍼포먼스 장인 르세라핌 메들리↗｜아는형님｜JTBC 230429 방송 외",
+        "description": "뮤지컬부터 발레까지 다 되는 르세라핌\n착한줄 알았는데 심장 막 저격하네..😈\n\n#아는형님 #핫클립 #르세라핌\n\n[JTBC봐야지] 구독하기☞ http://asq.kr/VgFZ3\n\n------------------------------------------------------\n* 영상 속 프로그램은?\n\n【아는 형님｜Knowing Brothers】\nhttps://tv.jtbc.co.kr/jtbcbros\n------------------------------------------------------",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OWoEycYAbqo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OWoEycYAbqo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OWoEycYAbqo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OWoEycYAbqo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OWoEycYAbqo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JTBC Voyage",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-29T14:38:59Z"
+      }
+    }
+  ]
+}

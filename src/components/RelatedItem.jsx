@@ -1,10 +1,33 @@
+import { useNavigate } from "react-router-dom";
+
 export default function RelatedItem({
   video: {
-    snippet: { channelId, title, thumbnails, channelTitle, publishedAt },
+    id: { videoId },
+    snippet: {
+      thumbnails,
+      title,
+      channelId,
+      channelTitle,
+      description,
+      publishedAt,
+    },
   },
 }) {
+  const navigate = useNavigate();
+  const onClick = () =>
+    navigate(`/videos/watch/${videoId}`, {
+      state: {
+        thumbnails,
+        title,
+        channelId,
+        channelTitle,
+        description,
+        publishedAt,
+      },
+    });
+
   return (
-    <li className="flex space-x-2 mb-2">
+    <li className="flex space-x-2 mb-2" onClick={onClick}>
       <img
         className="rounded-md w-40"
         src={`${thumbnails.medium.url}`}

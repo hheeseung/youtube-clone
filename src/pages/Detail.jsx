@@ -1,19 +1,24 @@
 import { useLocation, useParams } from "react-router-dom";
 import { useQuery } from "@tanstack/react-query";
 import RelatedList from "../components/RelatedList";
+import { useEffect } from "react";
 
 export default function Detail() {
   const {
     state: { title, channelId, channelTitle, description, publishedAt },
   } = useLocation();
   const { videoId } = useParams();
-  const { data: channel } = useQuery(["channelInfo"], () =>
+  const { data: channel, refetch } = useQuery(["channelInfo"], () =>
     fetch(
       `https://youtube.googleapis.com/youtube/v3/channels?part=snippet&id=${channelId}&key=${process.env.REACT_APP_API_KEY}`
     )
       .then((res) => res.json())
       .then((data) => data.items[0])
   );
+
+  useEffect(() => {
+    refetch();
+  }, [channelId, refetch]);
 
   return (
     <main className="relative top-20 px-20 py-3 flex">
@@ -36,7 +41,7 @@ export default function Detail() {
             />
             <span className="font-semibold">{channelTitle}</span>
           </div>
-          <pre className="font-sans text-sm bg-zinc-100 p-2 rounded-lg">
+          <pre className="font-sans text-sm bg-zinc-100 p-2 rounded-lg whitespace-pre-wrap">
             <p>
               Release Date:{" "}
               <span className="font-semibold">

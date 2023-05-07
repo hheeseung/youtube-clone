@@ -37,6 +37,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["postcss", "npm:8.4.23"],\
             ["react", "npm:18.2.0"],\
             ["react-dom", "virtual:edab27021fce9254b189c68a4ab529f1f79df6097122036c5a75137c29a8e6cd6eaa2c84ace744152d35cab6190f989e259be8ef6213ac29c3f61a825231b861#npm:18.2.0"],\
+            ["react-helmet", "virtual:edab27021fce9254b189c68a4ab529f1f79df6097122036c5a75137c29a8e6cd6eaa2c84ace744152d35cab6190f989e259be8ef6213ac29c3f61a825231b861#npm:6.1.0"],\
             ["react-hook-form", "virtual:edab27021fce9254b189c68a4ab529f1f79df6097122036c5a75137c29a8e6cd6eaa2c84ace744152d35cab6190f989e259be8ef6213ac29c3f61a825231b861#npm:7.43.9"],\
             ["react-icons", "virtual:edab27021fce9254b189c68a4ab529f1f79df6097122036c5a75137c29a8e6cd6eaa2c84ace744152d35cab6190f989e259be8ef6213ac29c3f61a825231b861#npm:4.8.0"],\
             ["react-router-dom", "virtual:edab27021fce9254b189c68a4ab529f1f79df6097122036c5a75137c29a8e6cd6eaa2c84ace744152d35cab6190f989e259be8ef6213ac29c3f61a825231b861#npm:6.11.0"],\
@@ -14690,6 +14691,41 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "HARD"\
         }]\
       ]],\
+      ["react-fast-compare", [\
+        ["npm:3.2.1", {\
+          "packageLocation": "./.yarn/cache/react-fast-compare-npm-3.2.1-c0b870cc30-209b4dc3a9.zip/node_modules/react-fast-compare/",\
+          "packageDependencies": [\
+            ["react-fast-compare", "npm:3.2.1"]\
+          ],\
+          "linkType": "HARD"\
+        }]\
+      ]],\
+      ["react-helmet", [\
+        ["npm:6.1.0", {\
+          "packageLocation": "./.yarn/cache/react-helmet-npm-6.1.0-20fd5447ff-a4998479da.zip/node_modules/react-helmet/",\
+          "packageDependencies": [\
+            ["react-helmet", "npm:6.1.0"]\
+          ],\
+          "linkType": "SOFT"\
+        }],\
+        ["virtual:edab27021fce9254b189c68a4ab529f1f79df6097122036c5a75137c29a8e6cd6eaa2c84ace744152d35cab6190f989e259be8ef6213ac29c3f61a825231b861#npm:6.1.0", {\
+          "packageLocation": "./.yarn/__virtual__/react-helmet-virtual-82462eb20e/0/cache/react-helmet-npm-6.1.0-20fd5447ff-a4998479da.zip/node_modules/react-helmet/",\
+          "packageDependencies": [\
+            ["react-helmet", "virtual:edab27021fce9254b189c68a4ab529f1f79df6097122036c5a75137c29a8e6cd6eaa2c84ace744152d35cab6190f989e259be8ef6213ac29c3f61a825231b861#npm:6.1.0"],\
+            ["@types/react", null],\
+            ["object-assign", "npm:4.1.1"],\
+            ["prop-types", "npm:15.8.1"],\
+            ["react", "npm:18.2.0"],\
+            ["react-fast-compare", "npm:3.2.1"],\
+            ["react-side-effect", "virtual:82462eb20e20f126b6237ae00a60ca2afc618740ad3c4fc74d1c92d16bf0678d593978c6e4e2646134e6c9086fc75675d0db440a145c9063193bfef9496f8863#npm:2.1.2"]\
+          ],\
+          "packagePeers": [\
+            "@types/react",\
+            "react"\
+          ],\
+          "linkType": "HARD"\
+        }]\
+      ]],\
       ["react-hook-form", [\
         ["npm:7.43.9", {\
           "packageLocation": "./.yarn/cache/react-hook-form-npm-7.43.9-3a3f4f3335-65b94de625.zip/node_modules/react-hook-form/",\
@@ -14892,6 +14928,28 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             "eslint-config-react-app",\
             "react",\
             "typescript"\
+          ],\
+          "linkType": "HARD"\
+        }]\
+      ]],\
+      ["react-side-effect", [\
+        ["npm:2.1.2", {\
+          "packageLocation": "./.yarn/cache/react-side-effect-npm-2.1.2-c18e5fd8bd-c5eb1f42b4.zip/node_modules/react-side-effect/",\
+          "packageDependencies": [\
+            ["react-side-effect", "npm:2.1.2"]\
+          ],\
+          "linkType": "SOFT"\
+        }],\
+        ["virtual:82462eb20e20f126b6237ae00a60ca2afc618740ad3c4fc74d1c92d16bf0678d593978c6e4e2646134e6c9086fc75675d0db440a145c9063193bfef9496f8863#npm:2.1.2", {\
+          "packageLocation": "./.yarn/__virtual__/react-side-effect-virtual-1eeb986c62/0/cache/react-side-effect-npm-2.1.2-c18e5fd8bd-c5eb1f42b4.zip/node_modules/react-side-effect/",\
+          "packageDependencies": [\
+            ["react-side-effect", "virtual:82462eb20e20f126b6237ae00a60ca2afc618740ad3c4fc74d1c92d16bf0678d593978c6e4e2646134e6c9086fc75675d0db440a145c9063193bfef9496f8863#npm:2.1.2"],\
+            ["@types/react", null],\
+            ["react", "npm:18.2.0"]\
+          ],\
+          "packagePeers": [\
+            "@types/react",\
+            "react"\
           ],\
           "linkType": "HARD"\
         }]\
@@ -17759,6 +17817,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["postcss", "npm:8.4.23"],\
             ["react", "npm:18.2.0"],\
             ["react-dom", "virtual:edab27021fce9254b189c68a4ab529f1f79df6097122036c5a75137c29a8e6cd6eaa2c84ace744152d35cab6190f989e259be8ef6213ac29c3f61a825231b861#npm:18.2.0"],\
+            ["react-helmet", "virtual:edab27021fce9254b189c68a4ab529f1f79df6097122036c5a75137c29a8e6cd6eaa2c84ace744152d35cab6190f989e259be8ef6213ac29c3f61a825231b861#npm:6.1.0"],\
             ["react-hook-form", "virtual:edab27021fce9254b189c68a4ab529f1f79df6097122036c5a75137c29a8e6cd6eaa2c84ace744152d35cab6190f989e259be8ef6213ac29c3f61a825231b861#npm:7.43.9"],\
             ["react-icons", "virtual:edab27021fce9254b189c68a4ab529f1f79df6097122036c5a75137c29a8e6cd6eaa2c84ace744152d35cab6190f989e259be8ef6213ac29c3f61a825231b861#npm:4.8.0"],\
             ["react-router-dom", "virtual:edab27021fce9254b189c68a4ab529f1f79df6097122036c5a75137c29a8e6cd6eaa2c84ace744152d35cab6190f989e259be8ef6213ac29c3f61a825231b861#npm:6.11.0"],\

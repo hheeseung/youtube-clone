@@ -9,11 +9,7 @@ export default function Detail() {
   } = useLocation();
   const { videoId } = useParams();
   const { data: channel, refetch } = useQuery(["channelInfo"], () =>
-    fetch(
-      `https://youtube.googleapis.com/youtube/v3/channels?part=snippet&id=${channelId}&key=${process.env.REACT_APP_API_KEY}`
-    )
-      .then((res) => res.json())
-      .then((data) => data.items[0])
+    getChannelInfo(channelId)
   );
 
   useEffect(() => {

@@ -1,9 +1,9 @@
 const BASE_URL = "https://youtube.googleapis.com/youtube/v3";
 
 export const getPopularList = async () => {
-  const res =
-    await fetch(`${BASE_URL}/videos?part=snippet%2CcontentDetails%2Cstatistics&chart=mostPopular&maxResults=25&regionCode=KR&key=${process.env.REACT_APP_API_KEY}
-  `);
+  const res = await fetch(
+    `${BASE_URL}/videos?part=snippet%2CcontentDetails%2Cstatistics&chart=mostPopular&maxResults=25&regionCode=KR&key=${process.env.REACT_APP_API_KEY}`
+  );
   const data = await res.json();
   return data.items;
 };

@@ -1,4 +1,6 @@
 import { useNavigate } from "react-router-dom";
+import { scrollToTop } from "../utils/scrollToTop";
+import { timeAgo } from "../utils/timeAgo";
 
 export default function RelatedItem({
   video: {
@@ -41,16 +43,9 @@ export default function RelatedItem({
         </h4>
         <div className="text-gray-500">
           <p className="text-sm">{channelTitle}</p>
-          <p className="text-sm">{publishedAt}</p>
+          <p className="text-sm">{timeAgo(publishedAt)}</p>
         </div>
       </div>
     </li>
   );
 }
-
-const scrollToTop = () => {
-  window.scrollTo({
-    top: 0,
-    behavior: "smooth",
-  });
-};

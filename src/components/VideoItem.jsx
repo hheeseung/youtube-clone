@@ -1,4 +1,5 @@
 import { useNavigate } from "react-router-dom";
+import { timeAgo } from "../utils/timeAgo";
 
 export default function VideoItem({
   id,
@@ -29,7 +30,7 @@ export default function VideoItem({
       </h4>
       <div className="text-gray-500 text-sm">
         <p>{channelTitle}</p>
-        <p>{publishedAt}</p>
+        <p>{timeAgo(publishedAt)}</p>
       </div>
     </li>
   );

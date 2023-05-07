@@ -11,7 +11,7 @@ export default function Header() {
   };
 
   return (
-    <header className="fixed flex w-full justify-between items-center px-10 py-3 z-[1] bg-white">
+    <header className="fixed flex w-screen justify-between items-center px-10 py-3 z-[1] bg-white">
       <div onClick={goHome} className="cursor-pointer">
         <img
           className="w-24"
@@ -19,7 +19,7 @@ export default function Header() {
           alt="youtube"
         />
       </div>
-      <form className="w-1/3 relative" onSubmit={handleSubmit(onValid)}>
+      <form className="md:w-1/3 relative" onSubmit={handleSubmit(onValid)}>
         <input
           {...register("keyword", { required: true })}
           className="w-full border-[1.5px] border-gray-300 rounded-3xl py-2 pl-4 pr-10 focus:border-blue-300 focus:outline-none"

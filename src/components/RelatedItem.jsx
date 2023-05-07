@@ -31,7 +31,7 @@ export default function RelatedItem({
   };
 
   return (
-    <li className="flex space-x-2 mb-2" onClick={onClick}>
+    <li className="flex space-x-2 mb-2 cursor-pointer" onClick={onClick}>
       <img
         className="rounded-md w-40"
         src={`${thumbnails.medium.url}`}

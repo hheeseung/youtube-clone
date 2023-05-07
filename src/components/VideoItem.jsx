@@ -23,7 +23,7 @@ export default function VideoItem({
     });
 
   return (
-    <li className="mb-4 space-y-2" onClick={onClick}>
+    <li className="mb-4 space-y-2 cursor-pointer" onClick={onClick}>
       <img src={`${thumbnails.medium.url}`} alt="video" />
       <h4 className="font-semibold">
         {title.length > 40 ? `${title.substring(0, 40)}...` : title}

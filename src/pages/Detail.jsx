@@ -18,17 +18,17 @@ export default function Detail() {
   }, [channelId, refetch]);
 
   return (
-    <main className="relative top-20 px-20 py-3 flex">
-      <div className="w-2/3 mr-3">
+    <main className="relative top-20 lg:px-20 px-5 py-3 flex flex-col xl:flex-row">
+      <div className="xl:w-2/3 mr-3 w-full">
         <iframe
+          className="lg:w-full h-96 lg:h-[660px]"
           title="YouTube Video"
           id="player"
           type="text/html"
           width="100%"
-          height="660"
           src={`http://www.youtube.com/embed/${videoId}?enablejsapi=1&origin=http://example.com`}
         ></iframe>
-        <div className="mt-2 space-y-4">
+        <div className="my-2 space-y-4">
           <h3 className="font-semibold text-xl">{title}</h3>
           <div className="flex items-center space-x-2">
             <img

@@ -13,7 +13,7 @@ export default function RelatedList({ videoId }) {
   }, [videoId, refetch]);
 
   return (
-    <ul className="w-1/3">
+    <ul className="xl:w-1/3 w-full">
       {relatedVideo &&
         relatedVideo.map((video) => (
           <RelatedItem key={video.id.videoId} video={video} />

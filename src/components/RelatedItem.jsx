@@ -14,7 +14,7 @@ export default function RelatedItem({
   },
 }) {
   const navigate = useNavigate();
-  const onClick = () =>
+  const onClick = () => {
     navigate(`/videos/watch/${videoId}`, {
       state: {
         thumbnails,
@@ -25,6 +25,8 @@ export default function RelatedItem({
         publishedAt,
       },
     });
+    scrollToTop();
+  };
 
   return (
     <li className="flex space-x-2 mb-2" onClick={onClick}>
@@ -45,3 +47,10 @@ export default function RelatedItem({
     </li>
   );
 }
+
+const scrollToTop = () => {
+  window.scrollTo({
+    top: 0,
+    behavior: "smooth",
+  });
+};

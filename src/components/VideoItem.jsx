@@ -2,14 +2,12 @@ import { useNavigate } from "react-router-dom";
 
 export default function VideoItem({
   id,
-  snippet: {
-    thumbnails,
-    title,
-    channelId,
-    channelTitle,
-    description,
-    publishedAt,
-  },
+  thumbnails,
+  title,
+  channelId,
+  channelTitle,
+  description,
+  publishedAt,
 }) {
   const navigate = useNavigate();
   const onClick = () =>

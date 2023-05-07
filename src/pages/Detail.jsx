@@ -2,6 +2,7 @@ import { useLocation, useParams } from "react-router-dom";
 import { useQuery } from "@tanstack/react-query";
 import RelatedList from "../components/RelatedList";
 import { useEffect } from "react";
+import { getChannelInfo } from "../services/fetcher";
 
 export default function Detail() {
   const {

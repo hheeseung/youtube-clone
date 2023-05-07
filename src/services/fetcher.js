@@ -23,3 +23,11 @@ export const getRelatedVideos = async (videoId) => {
   const data = await res.json();
   return data.items;
 };
+
+export const getSearchResults = async (keyword) => {
+  const res = await fetch(
+    `https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&q=${keyword}&type=video&key=${process.env.REACT_APP_API_KEY}`
+  );
+  const data = await res.json();
+  return data.items;
+};

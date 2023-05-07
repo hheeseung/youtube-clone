@@ -1,3 +1,13 @@
+import { useParams } from "react-router-dom";
+import { useQuery } from "@tanstack/react-query";
+import { getSearchResults } from "../services/fetcher";
+import SearchVideoList from "../components/SearchVideoList";
+
 export default function Search() {
-  return <h1 className="relative top-20 px-20 py-3">Search page</h1>;
+  const { keyword } = useParams();
+  const { data: searchVideos } = useQuery(["search"], () =>
+    getSearchResults(keyword)
+  );
+
+  return <SearchVideoList videos={searchVideos} />;
 }

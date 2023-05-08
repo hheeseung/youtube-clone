@@ -1,21 +1,20 @@
 import { useNavigate } from "react-router-dom";
+import { timeAgo } from "../utils/timeAgo";
+import { scrollToTop } from "../utils/scrollToTop";
 
 export default function VideoItem({
   id,
-  snippet: {
-    thumbnails,
-    title,
-    channelId,
-    channelTitle,
-    description,
-    publishedAt,
-  },
+  thumbnails,
+  title,
+  channelId,
+  channelTitle,
+  description,
+  publishedAt,
 }) {
   const navigate = useNavigate();
-  const onClick = () =>
+  const onClick = () => {
     navigate(`/videos/watch/${id}`, {
       state: {
-        thumbnails,
         title,
         channelId,
         channelTitle,
@@ -23,16 +22,22 @@ export default function VideoItem({
         publishedAt,
       },
     });
+    scrollToTop();
+  };
 
   return (
-    <li className="mb-4 space-y-2" onClick={onClick}>
-      <img src={`${thumbnails.medium.url}`} alt="video" />
+    <li className="mb-4 space-y-2 cursor-pointer" onClick={onClick}>
+      <img
+        className="rounded-md"
+        src={`${thumbnails.medium.url}`}
+        alt="video"
+      />
       <h4 className="font-semibold">
         {title.length > 40 ? `${title.substring(0, 40)}...` : title}
       </h4>
       <div className="text-gray-500 text-sm">
         <p>{channelTitle}</p>
-        <p>{publishedAt}</p>
+        <p>{timeAgo(publishedAt)}</p>
       </div>
     </li>
   );

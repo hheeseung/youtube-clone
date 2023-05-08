@@ -31,7 +31,7 @@ export default function Detail() {
             id="player"
             type="text/html"
             width="100%"
-            src={`http://www.youtube.com/embed/${videoId}?enablejsapi=1&origin=http://example.com`}
+            src={`https://www.youtube.com/embed/${videoId}?enablejsapi=1&origin=http://example.com`}
           ></iframe>
           <div className="my-2 space-y-4">
             <h3 className="font-semibold text-xl">{title}</h3>

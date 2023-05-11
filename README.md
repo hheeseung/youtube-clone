@@ -16,18 +16,18 @@ https://guileless-narwhal-97a3d6.netlify.app/
 ```
 src
 └ components
+  ├ Channels.jsx
   ├ Header.jsx
-  ├ RelatedItem.jsx
-  ├ RelatedList.jsx
-  ├ SearchVideoList.jsx
-  ├ VideoItem.jsx
-  └ VideoList.jsx
+  ├ RelatedVideos.jsx
+  └ VideoItem.jsx
 └ pages
-  ├ Home.jsx
+  ├ Videos.jsx
   ├ Detail.jsx
-  └ Search.jsx
+  └ NotFound.jsx
 └ services
-  └ fetcher.js
+  ├ fetcher.js
+  ├ fetcherClient.js
+  └ fakeFetcherClient.js
 └ utils
   ├ scrollToTop.js
   └ timeAgo.js

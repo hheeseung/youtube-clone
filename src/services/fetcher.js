@@ -37,6 +37,29 @@ export default class Fetcher {
     this.apiClient = apiClient;
   }
 
+  async relatedVideos(id) {
+    return this.apiClient
+      .search({
+        params: {
+          part: "snippet",
+          maxResults: 25,
+          type: "video",
+          relatedToVideoId: id,
+        },
+      })
+      .then((res) =>
+        res.data.items.map((item) => ({ ...item, id: item.id.videoId }))
+      );
+  }
+
+  async channels(id) {
+    return this.apiClient
+      .channels({
+        params: { part: "snippet", id },
+      })
+      .then((res) => res.data.items[0].snippet.thumbnails.default.url);
+  }
+
   async search(keyword) {
     return keyword ? this.#searchByKeyword(keyword) : this.#mostPopular();
   }

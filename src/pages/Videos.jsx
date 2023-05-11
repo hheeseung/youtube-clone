@@ -2,6 +2,7 @@ import { useQuery } from "@tanstack/react-query";
 import { useParams } from "react-router-dom";
 import { useAPI } from "../context/ApiContext";
 import VideoItem from "../components/VideoItem";
+import { Helmet } from "react-helmet";
 
 export default function Videos() {
   const { keyword } = useParams();
@@ -10,10 +11,15 @@ export default function Videos() {
     isLoading,
     data: videos,
     error,
-  } = useQuery(["videos", keyword], () => youtubeAPI.search(keyword));
+  } = useQuery(["videos", keyword], () => youtubeAPI.search(keyword), {
+    staleTime: 1000 * 60 * 5,
+  });
 
   return (
     <>
+      <Helmet>
+        <title>YouTube Clone</title>
+      </Helmet>
       {isLoading && (
         <h1 className="h-screen flex justify-center items-center">
           Data Loading...

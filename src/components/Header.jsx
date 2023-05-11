@@ -11,7 +11,7 @@ export default function Header() {
   };
 
   return (
-    <header className="flex w-full justify-between py-3 bg-white px-6 lg:px-0">
+    <header className="flex items-center w-full px-4 lg:px-0 py-2 bg-white">
       <div onClick={goHome} className="cursor-pointer">
         <img
           className="w-24"
@@ -19,7 +19,10 @@ export default function Header() {
           alt="youtube"
         />
       </div>
-      <form className="md:w-1/3 relative" onSubmit={handleSubmit(onValid)}>
+      <form
+        className="md:w-1/3 relative mx-auto"
+        onSubmit={handleSubmit(onValid)}
+      >
         <input
           {...register("keyword", { required: true })}
           className="w-full border-[1.5px] border-gray-300 rounded-3xl py-2 pl-4 pr-10 focus:border-blue-300 focus:outline-none"
@@ -30,13 +33,6 @@ export default function Header() {
           <BsSearch />
         </button>
       </form>
-      <div>
-        <img
-          className="w-10 rounded-full"
-          src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460__340.png"
-          alt="avatar"
-        />
-      </div>
     </header>
   );
 }

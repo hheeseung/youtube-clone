@@ -6,24 +6,25 @@ import { getChannelInfo } from "../services/fetcher";
 import { Helmet } from "react-helmet";
 
 export default function Detail() {
-  const {
-    state: { title, channelId, channelTitle, description, publishedAt },
-  } = useLocation();
-  const { videoId } = useParams();
-  const { data: channel, refetch } = useQuery(["channelInfo"], () =>
-    getChannelInfo(channelId)
-  );
+  // const {
+  //   state: { title, channelId, channelTitle, description, publishedAt },
+  // } = useLocation();
+  // const { videoId } = useParams();
+  // const { data: channel, refetch } = useQuery(["channelInfo"], () =>
+  //   getChannelInfo(channelId)
+  // );
 
-  useEffect(() => {
-    refetch();
-  }, [channelId, refetch]);
+  // useEffect(() => {
+  //   refetch();
+  // }, [channelId, refetch]);
 
   return (
     <>
-      <Helmet>
+      <h1>Detail</h1>
+      {/* <Helmet>
         <title>{title}</title>
-      </Helmet>
-      <main className="relative top-20 lg:px-20 px-5 py-3 flex flex-col xl:flex-row">
+      </Helmet> */}
+      {/* <main className="relative top-20 lg:px-20 px-5 py-3 flex flex-col xl:flex-row">
         <div className="xl:w-2/3 mr-3 w-full">
           <iframe
             className="lg:w-full h-96 lg:h-[660px]"
@@ -56,7 +57,7 @@ export default function Detail() {
           </div>
         </div>
         <RelatedList videoId={videoId} />
-      </main>
+      </main> */}
     </>
   );
 }

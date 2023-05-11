@@ -26,6 +26,6 @@ const router = createBrowserRouter([
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <QueryClientProvider client={queryClient}>
-    <RouterProvider router={router} />;
+    <RouterProvider router={router} />
   </QueryClientProvider>
 );

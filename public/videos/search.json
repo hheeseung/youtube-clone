@@ -1,8 +1,8 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "KJaF0_8ioyxQlvUBPj4SfxTuV7U",
+  "etag": "inZczDMSh4rfeiOsEIfPxe662MQ",
   "nextPageToken": "CBkQAA",
-  "regionCode": "KR",
+  "regionCode": "US",
   "pageInfo": {
     "totalResults": 1000000,
     "resultsPerPage": 25
@@ -10,852 +10,852 @@
   "items": [
     {
       "kind": "youtube#searchResult",
-      "etag": "sLCOefK0WLy2mPq9tumkpnNOjVA",
+      "etag": "oysxj-epBFrv7zSzArQ3-25fNdk",
       "id": {
         "kind": "youtube#video",
-        "videoId": "OTWYsXF99iY"
+        "videoId": "Os_heh8vPfs"
       },
       "snippet": {
-        "publishedAt": "2022-09-24T11:30:05Z",
-        "channelId": "UCg-p3lQIqmhh7gHpyaOmOiQ",
-        "title": "British Highschoolers try School Lunch in Korea!!",
-        "description": "While visiting Korea and having the time of their lives, we also wanted to give the boys an experience of what the lives of High ...",
+        "publishedAt": "2023-05-08T08:59:11Z",
+        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+        "title": "aespa 에스파 &#39;Spicy&#39; MV",
+        "description": "aespa's 3rd Mini Album \"MY WORLD\" is out! Listen and download on your favorite platforms: ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/OTWYsXF99iY/default.jpg",
+            "url": "https://i.ytimg.com/vi/Os_heh8vPfs/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/OTWYsXF99iY/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Os_heh8vPfs/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/OTWYsXF99iY/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Os_heh8vPfs/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "영국남자 Korean Englishman",
+        "channelTitle": "SMTOWN",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-24T11:30:05Z"
+        "publishTime": "2023-05-08T08:59:11Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "JXvNUyqCr1dsDul2c9Z1oJhO-hQ",
+      "etag": "6tELu9izM9p2G2XhVaUwumiTroY",
       "id": {
         "kind": "youtube#video",
-        "videoId": "xNkMbGrUdqU"
+        "videoId": "bL0Uxth2Edg"
       },
       "snippet": {
-        "publishedAt": "2022-09-23T14:38:06Z",
-        "channelId": "UCpjOmwiy88a9EV3Rv8ukJgw",
-        "title": "대한민국 VS 코스타리카 : 하나은행 초청 축구국가대표팀 친선경기 하이라이트 - 2022.09.23",
-        "description": "대한민국 VS 코스타리카 : 하나은행 초청 축구국가대표팀 친선경기 하이라이트 - 2022.09.23 #대한축구협회 공식 채널 대한민국 축구 ...",
+        "publishedAt": "2023-05-03T15:00:24Z",
+        "channelId": "UC9GtSLeksfK4yuJ_g1lgQbg",
+        "title": "aespa 에스파 &#39;Salty &amp; Sweet&#39; Track Video",
+        "description": "aespa's 3rd Mini Album \"MY WORLD\" is out! Listen and download on your favorite platforms: ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/xNkMbGrUdqU/default.jpg",
+            "url": "https://i.ytimg.com/vi/bL0Uxth2Edg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/xNkMbGrUdqU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/bL0Uxth2Edg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/xNkMbGrUdqU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/bL0Uxth2Edg/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "KFATV_대한민국 축구 국가대표팀",
+        "channelTitle": "aespa",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-23T14:38:06Z"
+        "publishTime": "2023-05-03T15:00:24Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "yteWjK0XHj2lht_OqEfGI3-pq00",
+      "etag": "otBS40wKGWsl5xVsukF7RA4l2YE",
       "id": {
         "kind": "youtube#video",
-        "videoId": "IrRFh1dLRQM"
+        "videoId": "CC7OrEx5H4U"
       },
       "snippet": {
-        "publishedAt": "2022-09-23T13:40:20Z",
-        "channelId": "UCjn-VbcIkAeXQKCmLJV8YwQ",
-        "title": "코스타리카전 하이라이트 | 2022 축구 국가대표 평가전 대한민국 vs 코스타리카 하이라이트 | 디지털 독점 생중계 | 쿠팡플레이 | 쿠팡",
-        "description": "대한민국 2 - 2 코스타리카 2022 축구 국가대표 평가전 하이라이트 더 보고 싶다면? 지금 쿠팡플레이에서 확인하기!",
+        "publishedAt": "2023-05-02T15:00:06Z",
+        "channelId": "UC9GtSLeksfK4yuJ_g1lgQbg",
+        "title": "aespa 에스파 &#39;I&#39;m Unhappy&#39; Track Video",
+        "description": "aespa's 3rd Mini Album \"MY WORLD\" is out! Listen and download on your favorite platforms: ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/IrRFh1dLRQM/default.jpg",
+            "url": "https://i.ytimg.com/vi/CC7OrEx5H4U/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/IrRFh1dLRQM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/CC7OrEx5H4U/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/IrRFh1dLRQM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/CC7OrEx5H4U/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "쿠팡플레이 Coupang Play",
+        "channelTitle": "aespa",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-23T13:40:20Z"
+        "publishTime": "2023-05-02T15:00:06Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "BIEhp-00sfG0HabrdNAj83L5bYM",
+      "etag": "Q_BKLZtLTc1hlB1wUHnZF7Ry1xg",
       "id": {
         "kind": "youtube#video",
-        "videoId": "mPq9PAZM43M"
+        "videoId": "zLNnSyyxASY"
       },
       "snippet": {
-        "publishedAt": "2022-09-23T13:57:34Z",
-        "channelId": "UCY_WNRa7H0P420fJkOFovtQ",
-        "title": "South Korea vs Costa Rica 2-2 ( Friendlies ) 23/09/2022",
-        "description": "South Korea vs Costa Rica 2-2 ( Friendlies ) 23/09/2022 1-0 H. Hee-chan 28' 2-0 J. Bennette 41' 2-1 J. Bennette 64' 2-2 S.",
+        "publishedAt": "2023-05-10T10:00:09Z",
+        "channelId": "UCpAU942wYzOyECalwbMVnCA",
+        "title": "[아이돌 민원실 허실장 1회] 광야에서 현실세계로 돌아온 에스파(aespa)! 허영지와 에스파의 Spicy한 좌충우돌 민원해결",
+        "description": "한밤에서 야심차게 준비한 새 아이돌 코너! '아이돌 민원실 허실장' 민원실장으로 변신한 카라 허영지가 해결할 에스파의 Spicy한 민원 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/mPq9PAZM43M/default.jpg",
+            "url": "https://i.ytimg.com/vi/zLNnSyyxASY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/mPq9PAZM43M/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/zLNnSyyxASY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/mPq9PAZM43M/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/zLNnSyyxASY/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "DEL PIERO 10",
+        "channelTitle": "한밤 HANBAM",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-23T13:57:34Z"
+        "publishTime": "2023-05-10T10:00:09Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "0TAGfPgdMc6n8zlJxeXJ-wM6CBw",
+      "etag": "G1i-lhiz-T7ZsCMmjUgwp0u0dQw",
       "id": {
         "kind": "youtube#video",
-        "videoId": "Ko1bqasNDls"
+        "videoId": "0xdB_vo4r2c"
       },
       "snippet": {
-        "publishedAt": "2018-12-16T12:47:18Z",
-        "channelId": "UCFMkPeE8jiPirJMv9kttuIg",
-        "title": "South Korea 4K. Interesting Facts About South Korea",
-        "description": "South Korea is one of the most developed countries today. Lets take a tour of Korea and see modern Korean cities. Seoul, Busan ...",
+        "publishedAt": "2023-05-02T09:00:01Z",
+        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+        "title": "aespa 에스파 &#39;Welcome To MY World (Feat. nævis)&#39; MV",
+        "description": "aespa's 3rd Mini Album \"MY WORLD\" is out! Listen and download on your favorite platforms: ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Ko1bqasNDls/default.jpg",
+            "url": "https://i.ytimg.com/vi/0xdB_vo4r2c/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Ko1bqasNDls/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/0xdB_vo4r2c/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Ko1bqasNDls/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/0xdB_vo4r2c/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "CoolVision",
+        "channelTitle": "SMTOWN",
         "liveBroadcastContent": "none",
-        "publishTime": "2018-12-16T12:47:18Z"
+        "publishTime": "2023-05-02T09:00:01Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "-WBBf5ZALtk3cXr0FsaI5CPciVk",
+      "etag": "QOON1Nr2VTyzNK6V_T_Y4GMw2eo",
       "id": {
         "kind": "youtube#video",
-        "videoId": "Y_KWTkEqG2o"
+        "videoId": "i0RCcSBPjuU"
       },
       "snippet": {
-        "publishedAt": "2022-09-25T20:07:51Z",
-        "channelId": "UCKJtYrlWaF3G0LIneEKoPew",
-        "title": "Night Shift With the Hardest Tournament In Korea | Uprising Korea 2022: The ATP Fight Companion",
-        "description": "TEKKEN7 #Aris #TWT2022 Aris had to tap out due to the time, check out Top 3 on https://www.twitch.tv/videos/1600697972 ...",
+        "publishedAt": "2023-05-04T15:00:23Z",
+        "channelId": "UC9GtSLeksfK4yuJ_g1lgQbg",
+        "title": "aespa 에스파 &#39;Thirsty&#39; Track Video",
+        "description": "aespa's 3rd Mini Album \"MY WORLD\" is out! Listen and download on your favorite platforms: ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Y_KWTkEqG2o/default.jpg",
+            "url": "https://i.ytimg.com/vi/i0RCcSBPjuU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Y_KWTkEqG2o/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/i0RCcSBPjuU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Y_KWTkEqG2o/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/i0RCcSBPjuU/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Avoiding The Puddle",
+        "channelTitle": "aespa",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-25T20:07:51Z"
+        "publishTime": "2023-05-04T15:00:23Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "WMrM2ghOy8F-mEdAiP1lX0p0dek",
+      "etag": "gHM8aeaEoZuBhbO36mw4pUdLnKg",
       "id": {
         "kind": "youtube#video",
-        "videoId": "cXX5J3rHjHk"
+        "videoId": "sORkB5o3b6o"
       },
       "snippet": {
-        "publishedAt": "2022-09-25T03:09:45Z",
-        "channelId": "UCtKKtyxOmmt60A2-pp0B1cw",
-        "title": "There are some things about Korea in the Tower of London?, Tower of London, Queen, AMWF, Couple",
-        "description": "toweroflondon #queenelizabeth #amwf.",
+        "publishedAt": "2023-05-08T09:04:46Z",
+        "channelId": "UC9GtSLeksfK4yuJ_g1lgQbg",
+        "title": "aespa &#39;Salty &amp; Sweet&#39; (Official Audio)",
+        "description": "aespa's 3rd Mini Album \"MY WORLD\" is out! Listen and download on your favorite platforms: ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/cXX5J3rHjHk/default.jpg",
+            "url": "https://i.ytimg.com/vi/sORkB5o3b6o/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/cXX5J3rHjHk/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/sORkB5o3b6o/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/cXX5J3rHjHk/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/sORkB5o3b6o/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "브리티쉬 새댁 : BRITISH WIFE",
+        "channelTitle": "aespa",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-25T03:09:45Z"
+        "publishTime": "2023-05-08T09:04:46Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "VhPanuQC4a0QcSr88ZmWldTTvnE",
+      "etag": "coK-Fu27EES8hB-W7IhSyorNh5Y",
       "id": {
         "kind": "youtube#video",
-        "videoId": "poHTA94-BeY"
+        "videoId": "K8P_p4j9T38"
       },
       "snippet": {
-        "publishedAt": "2022-09-21T15:00:28Z",
-        "channelId": "UCn8zNIfYAQNdrFRrr8oibKw",
-        "title": "What North Korea Doesn’t Want You To See | Super Users",
-        "description": "Blogger Jacob Bogle often receives this warning, “State-sponsored actors are attempting to hack into your account.” It's all ...",
+        "publishedAt": "2023-05-08T09:04:54Z",
+        "channelId": "UC9GtSLeksfK4yuJ_g1lgQbg",
+        "title": "aespa &#39;Thirsty&#39; (Official Audio)",
+        "description": "aespa's 3rd Mini Album \"MY WORLD\" is out! Listen and download on your favorite platforms: ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/poHTA94-BeY/default.jpg",
+            "url": "https://i.ytimg.com/vi/K8P_p4j9T38/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/poHTA94-BeY/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/K8P_p4j9T38/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/poHTA94-BeY/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/K8P_p4j9T38/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "VICE",
+        "channelTitle": "aespa",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-21T15:00:28Z"
+        "publishTime": "2023-05-08T09:04:54Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "rGmZBOTYAjhr2P9WvyJ0nH9N-dU",
+      "etag": "vxruZoWhryhYawqYwgNtS_mIo8k",
       "id": {
         "kind": "youtube#video",
-        "videoId": "yICHjopBVT0"
+        "videoId": "AHuJCecFve8"
       },
       "snippet": {
-        "publishedAt": "2022-09-23T13:40:34Z",
-        "channelId": "UC83jt4dlz1Gjl58fzQrrKZg",
-        "title": "US aircraft carrier arrives at naval base in South Korea&#39;s Busan",
-        "description": "US aircraft carrier USS Ronald Reagan has arrived at a naval base in South Korea's southern port city of Busan. Officials in Seoul ...",
+        "publishedAt": "2023-05-10T06:10:46Z",
+        "channelId": "UCbVRtqsTmYh1xhrDSTfSQLg",
+        "title": "에스파 아우디즈 &#39;Spicy&#39; 안무 찍먹! / [박명수의 라디오쇼]｜KBS 230510 방송",
+        "description": "2023.05.10_KBS Cool FM 89.1MHz 매일 11:00~12:00 박명수의 라디오쇼 https://program.kbs.co.kr/2fm/radio/radioshow 전설의 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/yICHjopBVT0/default.jpg",
+            "url": "https://i.ytimg.com/vi/AHuJCecFve8/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/yICHjopBVT0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/AHuJCecFve8/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/yICHjopBVT0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/AHuJCecFve8/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "CNA",
+        "channelTitle": "KBS CoolFM",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-23T13:40:34Z"
+        "publishTime": "2023-05-10T06:10:46Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "47b4-JmLcO11LACaUuRS7IK72K4",
+      "etag": "Gf1gfCIlYZ6v33RBvfC-w31Av9w",
       "id": {
         "kind": "youtube#video",
-        "videoId": "udtN3czhkA8"
+        "videoId": "tHxrdLeZl5k"
       },
       "snippet": {
-        "publishedAt": "2022-09-24T23:00:31Z",
-        "channelId": "UCa-DreapaYm4Roo0CfUBGQg",
-        "title": "bye seoul ✨ a day of my life in korea ☕ cafe hopping in daejeon, a little trip out of seoul vlog",
-        "description": "Head to https://squarespace.com/caricakes to save 10% off your first purchase of a website or domain using code CARICAKES ...",
+        "publishedAt": "2023-05-10T04:32:58Z",
+        "channelId": "UC2Y6yE0LeON-VMBWIPrLZYg",
+        "title": "HONEST REACTION to aespa 에스파 &#39;Spicy&#39; MV",
+        "description": "Exclusive videos! https://www.patreon.com/aaronfreeman I always read my DMs on Instagram ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/udtN3czhkA8/default.jpg",
+            "url": "https://i.ytimg.com/vi/tHxrdLeZl5k/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/udtN3czhkA8/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/tHxrdLeZl5k/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/udtN3czhkA8/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/tHxrdLeZl5k/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "cari cakes",
+        "channelTitle": "Aaron Freeman",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-24T23:00:31Z"
+        "publishTime": "2023-05-10T04:32:58Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "g9BlAPsYE79_C_3JgqCGB_AEpWQ",
+      "etag": "oD2pE4MzhPJswoNzm4CY3OJjU3M",
       "id": {
         "kind": "youtube#video",
-        "videoId": "3P1CnWI62Ik"
+        "videoId": "fvtzZFhrKLE"
       },
       "snippet": {
-        "publishedAt": "2020-07-30T05:46:28Z",
-        "channelId": "UChhOtjq-3QyyLmP2jv9amrg",
-        "title": "Feel the Rhythm of KOREA: SEOUL",
-        "description": "Enjoy wonderful attractions of South Korea with a lively, rhythmic sound! Korean Tourism Organization collaborated with an ...",
+        "publishedAt": "2023-03-31T04:00:16Z",
+        "channelId": "UC9GtSLeksfK4yuJ_g1lgQbg",
+        "title": "aespa &#39;Hold On Tight&#39; (Tetris Motion Picture Soundtrack) Visualizer",
+        "description": "aespa's new song 'Hold On Tight' (Tetris Motion Picture Soundtrack) is out! Listen and download on your favorite platform: ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/3P1CnWI62Ik/default.jpg",
+            "url": "https://i.ytimg.com/vi/fvtzZFhrKLE/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/3P1CnWI62Ik/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/fvtzZFhrKLE/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/3P1CnWI62Ik/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/fvtzZFhrKLE/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Imagine Your Korea",
+        "channelTitle": "aespa",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-07-30T05:46:28Z"
+        "publishTime": "2023-03-31T04:00:16Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "ru_YTz8hyk0F8R8wB7T09knh_jI",
+      "etag": "82RdaaDJi12hyZtml4-aOXBXGOQ",
       "id": {
         "kind": "youtube#video",
-        "videoId": "4uqoz7xIf6o"
+        "videoId": "oPY3AfGoyYQ"
       },
       "snippet": {
-        "publishedAt": "2022-09-23T12:58:56Z",
-        "channelId": "UCydi_iDuARZqbC0vYpGhfsQ",
-        "title": "South Korea vs Costa Rica 2-2 Extеndеd Hіghlіghts &amp; Gоals 2022 HD",
-        "description": "Korea#CostaRica#SoonGoal.",
+        "publishedAt": "2023-05-09T12:00:42Z",
+        "channelId": "UC9GtSLeksfK4yuJ_g1lgQbg",
+        "title": "같이 그냥 신나주세요 🤙🥳 | aespa 에스파 &#39;Spicy&#39; 응원법",
+        "description": "aespa's 3rd Mini Album \"MY WORLD\" is out! Listen and download on your favorite platforms: ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/4uqoz7xIf6o/default.jpg",
+            "url": "https://i.ytimg.com/vi/oPY3AfGoyYQ/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/4uqoz7xIf6o/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/oPY3AfGoyYQ/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/4uqoz7xIf6o/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/oPY3AfGoyYQ/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "tahahahahahbarame",
+        "channelTitle": "aespa",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-23T12:58:56Z"
+        "publishTime": "2023-05-09T12:00:42Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "GbelpdHsiy3KHvkC7zhm4QQWdzg",
+      "etag": "vj8zU9x1_8TqlQma1c2ocMJT5jY",
       "id": {
         "kind": "youtube#video",
-        "videoId": "UDlWtkvFYLU"
+        "videoId": "dYRITmpFbJ4"
       },
       "snippet": {
-        "publishedAt": "2022-09-24T23:18:39Z",
-        "channelId": "UCO0akufu9MOzyz3nvGIXAAw",
-        "title": "North Korea fires ballistic missile towards the Sea of Japan",
-        "description": "South Korea's Joint Chiefs of Staff have announced North Korea has fired an unspecified ballistic missile towards the sea of ...",
+        "publishedAt": "2022-07-08T04:00:14Z",
+        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+        "title": "aespa 에스파 &#39;Girls&#39; MV",
+        "description": "aespa's 2nd Mini Album \"Girls\" is out! Listen and download on your favorite platform: https://aespa.lnk.to/GirlsEP [Tracklist] 01 Girls ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/UDlWtkvFYLU/default.jpg",
+            "url": "https://i.ytimg.com/vi/dYRITmpFbJ4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/UDlWtkvFYLU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/dYRITmpFbJ4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/UDlWtkvFYLU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/dYRITmpFbJ4/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Sky News Australia",
+        "channelTitle": "SMTOWN",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-24T23:18:39Z"
+        "publishTime": "2022-07-08T04:00:14Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "YAH595UCgwnGgeFIzORsPSGF1Z8",
+      "etag": "Px64xWD7jsccvThS-q6TyrOZW04",
       "id": {
         "kind": "youtube#video",
-        "videoId": "eVFMDMpY36o"
+        "videoId": "v3L1XdqGnyI"
       },
       "snippet": {
-        "publishedAt": "2020-11-21T04:43:42Z",
-        "channelId": "UCkIom4UP_2D0DXuG92vd_KQ",
-        "title": "【Seoul】 Travel Guide - Top 10 Seoul | Korea Travel | Asia Travel | Travel at home",
-        "description": "Follow us to the most beautiful places in Seoul! Have an amazing trip at home. In this video, we'll cover more than Top ...",
+        "publishedAt": "2023-05-08T09:05:00Z",
+        "channelId": "UC9GtSLeksfK4yuJ_g1lgQbg",
+        "title": "aespa &#39;I&#39;m Unhappy&#39; (Official Audio)",
+        "description": "aespa's 3rd Mini Album \"MY WORLD\" is out! Listen and download on your favorite platforms: ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/eVFMDMpY36o/default.jpg",
+            "url": "https://i.ytimg.com/vi/v3L1XdqGnyI/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/eVFMDMpY36o/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/v3L1XdqGnyI/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/eVFMDMpY36o/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/v3L1XdqGnyI/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Before Your Trip",
+        "channelTitle": "aespa",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-11-21T04:43:42Z"
+        "publishTime": "2023-05-08T09:05:00Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "rAcCkuleJdI7Kwgus5cR7yUnVyo",
+      "etag": "qPyJ3JD7BOlheVtagVo3-T7wSXw",
       "id": {
         "kind": "youtube#video",
-        "videoId": "rXDoqD7FjQw"
+        "videoId": "lUusUqBiWlc"
       },
       "snippet": {
-        "publishedAt": "2022-09-22T16:33:25Z",
-        "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-        "title": "WION Fineprint | North Korea denies sending arms to Russia amid Ukraine war",
-        "description": "North Korea denied sending weapons to Russia, accusing the United States of spreading rumours about such a sale to tarnish ...",
+        "publishedAt": "2023-05-06T15:00:30Z",
+        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+        "title": "aespa 에스파 &#39;Spicy&#39; MV Teaser",
+        "description": "aespa's 3rd Mini Album \"MY WORLD\" is out! Listen and download on your favorite platforms: ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/rXDoqD7FjQw/default.jpg",
+            "url": "https://i.ytimg.com/vi/lUusUqBiWlc/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/rXDoqD7FjQw/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/lUusUqBiWlc/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/rXDoqD7FjQw/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/lUusUqBiWlc/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "WION",
+        "channelTitle": "SMTOWN",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-22T16:33:25Z"
+        "publishTime": "2023-05-06T15:00:30Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "ybHTGc970cUMrjeGLj8LSnXOzbA",
+      "etag": "CRD3CzuvVsRUNfIgYJqC64H4LdE",
       "id": {
         "kind": "youtube#video",
-        "videoId": "X5q0Fd_KV1w"
+        "videoId": "4TWR90KJl84"
       },
       "snippet": {
-        "publishedAt": "2022-09-23T11:09:06Z",
-        "channelId": "UC925y3Dn61A7MBXGZJWNX9A",
-        "title": "MOVING IN KOREA (+ grocery shopping)",
-        "description": "BGM sources BGM President https://www.youtube.com/c/bgmpresident 별 헤는 다락방 Starry Attic ...",
+        "publishedAt": "2021-05-17T09:00:02Z",
+        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+        "title": "aespa 에스파 &#39;Next Level&#39; MV",
+        "description": "aespa's new single \"Next Level\" is out! Listen and download on your favorite platform: https://smarturl.it/aespa_NextLevel ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/X5q0Fd_KV1w/default.jpg",
+            "url": "https://i.ytimg.com/vi/4TWR90KJl84/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/X5q0Fd_KV1w/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/4TWR90KJl84/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/X5q0Fd_KV1w/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/4TWR90KJl84/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "KrisTells Vlogs",
+        "channelTitle": "SMTOWN",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-23T11:09:06Z"
+        "publishTime": "2021-05-17T09:00:02Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "Fko1jl6ZczSFvLyX69dkEe9R4nI",
+      "etag": "iE3z0Cf049CADd3wA0RqD0XZfL4",
       "id": {
         "kind": "youtube#video",
-        "videoId": "OIGBoo2QbFM"
+        "videoId": "gu8Ycr4BPRU"
       },
       "snippet": {
-        "publishedAt": "2022-09-23T09:15:00Z",
-        "channelId": "UC91JExDefknFHQ5Lqp-g_Jg",
-        "title": "[ENG] 무슨 노래 듣고 계세요? 고려대편 What Song Are You listening To? Korea University",
-        "description": "고려대학교에서 사람들에게 물어봤습니다. \"무슨 노래 듣고 계세요?\" *본 영상에서 인터뷰에 응해주신 모든 분들께는 유튜브 촬영 ...",
+        "publishedAt": "2023-04-10T21:51:08Z",
+        "channelId": "UCWv4w4TsOGcBl8fkluTvzoA",
+        "title": "Aespa next comeback leaked",
+        "description": "aespa #ningning #winter #giselle #karina.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/OIGBoo2QbFM/default.jpg",
+            "url": "https://i.ytimg.com/vi/gu8Ycr4BPRU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/OIGBoo2QbFM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/gu8Ycr4BPRU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/OIGBoo2QbFM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/gu8Ycr4BPRU/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "복코s",
+        "channelTitle": "Haru Haruto ♪",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-23T09:15:00Z"
+        "publishTime": "2023-04-10T21:51:08Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "dNwGFbxrh_ZK1kG7ax2X3Byi57I",
+      "etag": "0R4zhudo9RgxCFc0I9DDABiEdQ4",
       "id": {
         "kind": "youtube#video",
-        "videoId": "jejLBWMsyHk"
+        "videoId": "EuE6edfKOWw"
       },
       "snippet": {
-        "publishedAt": "2022-07-27T13:28:04Z",
-        "channelId": "UCg-p3lQIqmhh7gHpyaOmOiQ",
-        "title": "Pack your bags boys! You&#39;re going to KOREA!!!",
-        "description": "A year after a handshake and a promise… the British High schoolers are finally coming on a School Trip to Korea! 7 students.",
+        "publishedAt": "2023-05-09T01:14:08Z",
+        "channelId": "UCIda6ijXAcziDMH1saI-3dg",
+        "title": "[MIRRORED] aespa 에스파 &#39;Spicy&#39; 🔥🥵 Dance Cover | Lisa Rhee",
+        "description": "Stay tuned for the full dance cover & dance tutorial!!! :) #aespa #spicy #에스파 #Spicy #aespa_Spicy #SpicyChallenge #스파이시 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/jejLBWMsyHk/default.jpg",
+            "url": "https://i.ytimg.com/vi/EuE6edfKOWw/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/jejLBWMsyHk/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/EuE6edfKOWw/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/jejLBWMsyHk/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/EuE6edfKOWw/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "영국남자 Korean Englishman",
+        "channelTitle": "imlisarhee",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-07-27T13:28:04Z"
+        "publishTime": "2023-05-09T01:14:08Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "QUOydUauRWhJhZ_1YBT7uIpreM8",
+      "etag": "OzWmM8SP7yBJ7rS0CaJfL5MoMrU",
       "id": {
         "kind": "youtube#video",
-        "videoId": "4usmpuMP7R4"
+        "videoId": "ZeerrnuLi5E"
       },
       "snippet": {
-        "publishedAt": "2022-09-23T18:17:27Z",
-        "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
-        "title": "U.S. aircraft carrier arrives in South Korea for first time since 2018",
-        "description": "An American aircraft carrier has arrived in South Korea for the first time in almost five years. The U.S. and South Korean navies will ...",
+        "publishedAt": "2020-11-17T09:00:22Z",
+        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+        "title": "aespa 에스파 &#39;Black Mamba&#39; MV",
+        "description": "Listen and download aespa's debut single \"Black Mamba\": https://smarturl.it/aespa_BlackMamba The Debut Stage ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/4usmpuMP7R4/default.jpg",
+            "url": "https://i.ytimg.com/vi/ZeerrnuLi5E/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/4usmpuMP7R4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ZeerrnuLi5E/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/4usmpuMP7R4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ZeerrnuLi5E/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "CBS News",
+        "channelTitle": "SMTOWN",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-23T18:17:27Z"
+        "publishTime": "2020-11-17T09:00:22Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "l8khr7AUrmkyRXFla0D5kQShrp0",
+      "etag": "ARh66Fb2vylz-wltzgkL211jUnM",
       "id": {
         "kind": "youtube#video",
-        "videoId": "o70MzTHHNbI"
+        "videoId": "j_kp5os4kco"
       },
       "snippet": {
-        "publishedAt": "2018-10-22T18:59:58Z",
-        "channelId": "UCFMkPeE8jiPirJMv9kttuIg",
-        "title": "Seoul South Korea 4K .City - Sights - People",
-        "description": "Lets take a tour to Seoul South Korea. One of the largest cities in the world renowned for its architecture, technical advancements ...",
+        "publishedAt": "2023-05-10T22:15:01Z",
+        "channelId": "UC1nw9oKwbeHI98HJOylFbWw",
+        "title": "EVENTO DA JENNIE, POLÊMICA DO BEBÊ NO SHOW, IDOL GRÁVIDA, HIT DO AESPA E MUITO MAIS | FEFO NEWS",
+        "description": "APOIE O MEU TRABALHO: insta: @fefocaires ​twitter: @fefocaires​​​​​​​ tiktok: @fefocaires ttv: FefoCaires QUAL O TEMA ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/o70MzTHHNbI/default.jpg",
+            "url": "https://i.ytimg.com/vi/j_kp5os4kco/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/o70MzTHHNbI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/j_kp5os4kco/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/o70MzTHHNbI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/j_kp5os4kco/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "CoolVision",
+        "channelTitle": "Fefo Caires",
         "liveBroadcastContent": "none",
-        "publishTime": "2018-10-22T18:59:58Z"
+        "publishTime": "2023-05-10T22:15:01Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "DIgkkmzdS-cUUr86ruCcsXgRG6M",
+      "etag": "u9XwkbBmQ9RmgQ4TiQIzIS1OZqo",
       "id": {
         "kind": "youtube#video",
-        "videoId": "P2lhXFe8C1k"
+        "videoId": "LgACHQrV92w"
       },
       "snippet": {
-        "publishedAt": "2022-09-24T07:50:00Z",
-        "channelId": "UCxHoBXkY88Tb8z1Ssj6CWsQ",
-        "title": "যৌথ সামরিক মহড়ায় দক্ষিণ কোরিয়া-যুক্তরাষ্ট্র | USA | South Korea | North Korea | Somoy TV",
-        "description": "jointexercises #usaandsouthkorea #usa #USaircraft #southkorea #northkorea #somoytv The United States is going to conduct ...",
+        "publishedAt": "2023-05-08T09:33:18Z",
+        "channelId": "UCFdAdgyV43x3OolPd8RQUig",
+        "title": "aespa 에스파 &#39;Spicy&#39; MV | REACTION!!!",
+        "description": "More Content On Patreon!!! https://www.patreon.com/BRISxGANG 2ND CHANNEL: more BRISXLIFE ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/P2lhXFe8C1k/default.jpg",
+            "url": "https://i.ytimg.com/vi/LgACHQrV92w/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/P2lhXFe8C1k/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/LgACHQrV92w/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/P2lhXFe8C1k/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/LgACHQrV92w/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "SOMOY TV",
+        "channelTitle": "BRISxLIFE",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-24T07:50:00Z"
+        "publishTime": "2023-05-08T09:33:18Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "N6qCh0kjYbXxXqUHIP2huk-Qync",
+      "etag": "7_oFDFXXxray5kYtNZZd_HPEoJU",
       "id": {
         "kind": "youtube#video",
-        "videoId": "0YZxpzrANXM"
+        "videoId": "QxBvMHKS2VA"
       },
       "snippet": {
-        "publishedAt": "2022-09-09T09:33:00Z",
-        "channelId": "UCtyltqstMm6iKnkk2Y9Zt8A",
-        "title": "We went to KOREA to meet BTS 💜 Staying at KOREA&#39;S First Robot Hotel",
-        "description": "ROBOTS, TECHNOLOGY AUR BHOT SARA DHAMAAL #KOREA SUBSCRIBE!!! . . Read my travel stories: ...",
+        "publishedAt": "2023-05-09T15:04:34Z",
+        "channelId": "UC3qGy9-gqF-jKBstqv5WCWw",
+        "title": "BACK WITH A BANG! (aespa 에스파 &#39;Spicy&#39; | Official MV Reaction)",
+        "description": "My reaction to the music video for the new song Spicy by aespa! Suggestion Priority, Monthly Livestreams & Guaranteed ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/0YZxpzrANXM/default.jpg",
+            "url": "https://i.ytimg.com/vi/QxBvMHKS2VA/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/0YZxpzrANXM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/QxBvMHKS2VA/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/0YZxpzrANXM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/QxBvMHKS2VA/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Wanderers Hub",
+        "channelTitle": "MrSammyCam",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-09T09:33:00Z"
+        "publishTime": "2023-05-09T15:04:34Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "36aoMmq9pwSNJc9UVSAIqhkwLc4",
+      "etag": "z3i6S_jzllYrZLLENvPJMJHQnqc",
       "id": {
         "kind": "youtube#video",
-        "videoId": "Wfu846Gb6Vk"
+        "videoId": "WPdWvnAAurg"
       },
       "snippet": {
-        "publishedAt": "2022-09-23T13:30:08Z",
-        "channelId": "UCttQf1sGLn5wZaaqoHam1-w",
-        "title": "The First Ever Safari Zone in South Korea is INSANE, BECAUSE... - Pokemon GO",
-        "description": "After not being able to attend any in-person events for over 2 years, finally this is not just the first Safari Zone to happen in South ...",
+        "publishedAt": "2021-10-05T09:00:00Z",
+        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+        "title": "aespa 에스파 &#39;Savage&#39; MV",
+        "description": "aespa's 1st mini album \"Savage\" is out! Listen and download on your favorite platform: https://smarturl.it/ae_Savage 🎟️ aespa ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Wfu846Gb6Vk/default.jpg",
+            "url": "https://i.ytimg.com/vi/WPdWvnAAurg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Wfu846Gb6Vk/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/WPdWvnAAurg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Wfu846Gb6Vk/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/WPdWvnAAurg/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "BrandonTan91",
+        "channelTitle": "SMTOWN",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-23T13:30:08Z"
+        "publishTime": "2021-10-05T09:00:00Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "m17Pfamo3CmEYNqg7OyGhtrf8Cg",
+      "etag": "3ULgRIALuW1SDTRZHtHQvoVbutg",
       "id": {
         "kind": "youtube#video",
-        "videoId": "gwzO4fPkDEk"
+        "videoId": "k8IANcgmbF0"
       },
       "snippet": {
-        "publishedAt": "2022-09-23T14:14:56Z",
-        "channelId": "UC5klUqmlo9G8U5iaQ53ogIA",
-        "title": "Announcing my new album, and arriving in South Korea",
-        "description": "It's my first time in South Korea and I'm absolutely loving it. I also announced my new album Future eForever in this video. If you'd ...",
+        "publishedAt": "2023-05-08T15:15:11Z",
+        "channelId": "UC1nw9oKwbeHI98HJOylFbWw",
+        "title": "[MV REACTION] aespa 에스파 &#39;Spicy&#39;",
+        "description": "APOIE O MEU TRABALHO: insta: @fefocaires ​twitter: @fefocaires​​​​​​​ tiktok: @fefocaires ttv: CairesFefo QUER ME DAR ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/gwzO4fPkDEk/default.jpg",
+            "url": "https://i.ytimg.com/vi/k8IANcgmbF0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/gwzO4fPkDEk/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/k8IANcgmbF0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/gwzO4fPkDEk/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/k8IANcgmbF0/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Jonathan Ogden",
+        "channelTitle": "Fefo Caires",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-23T14:14:56Z"
+        "publishTime": "2023-05-08T15:15:11Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "3DXONSxKDfA-3Yzj9QeyGmz_fb8",
+      "etag": "ofWermq7HeTlwuGvsppdEeLkKKs",
       "id": {
         "kind": "youtube#video",
-        "videoId": "x6AHuxqt1U0"
+        "videoId": "rJYF27i6BkI"
       },
       "snippet": {
-        "publishedAt": "2022-09-22T02:00:09Z",
-        "channelId": "UCNrRJm0gWx69f8Ybdnsi23A",
-        "title": "shopping in korea vlog 🇰🇷 shoes &amp; accessories haul from Gotomall Underground Shopping Center",
-        "description": "come shopping with me! shoes & accessories haul from Gotomall Underground shopping center in Seoul. 고투몰 지하 상가 ...",
+        "publishedAt": "2023-05-08T19:16:48Z",
+        "channelId": "UCZaTZL0I081HoXWVIy9H9Mg",
+        "title": "REAGINDO ÀS MÚSICAS NOVAS DO AESPA (SPICY, WELCOME TO MY WORLD...)",
+        "description": "No vídeo de hoje o Dan reagiu a TODO o comeback do aespa, que retornou com a title-track spicy VIRE MEMBRO DO CANAL E ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/x6AHuxqt1U0/default.jpg",
+            "url": "https://i.ytimg.com/vi/rJYF27i6BkI/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/x6AHuxqt1U0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/rJYF27i6BkI/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/x6AHuxqt1U0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/rJYF27i6BkI/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "sassyinkorea",
+        "channelTitle": "K-DAN",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-09-22T02:00:09Z"
+        "publishTime": "2023-05-08T19:16:48Z"
       }
     }
   ]

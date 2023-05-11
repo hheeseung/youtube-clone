@@ -11,7 +11,7 @@ export default function Header() {
   };
 
   return (
-    <header className="fixed flex w-screen justify-between items-center px-10 py-3 z-[1] bg-white">
+    <header className="flex w-full justify-between py-3 bg-white px-6 lg:px-0">
       <div onClick={goHome} className="cursor-pointer">
         <img
           className="w-24"

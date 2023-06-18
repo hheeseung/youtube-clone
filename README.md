@@ -1,49 +1,24 @@
 # YouTube 클론 코딩 프로젝트
 
 https://user-images.githubusercontent.com/87454393/236725988-2f58eb82-3f0f-4d0c-8a07-01651eda0f18.mp4
+> 개발기간: 2023.4.27 ~ 2023.5.11
 
 ## 배포 링크
 
 https://guileless-narwhal-97a3d6.netlify.app/
 
-## 프로젝트 설명
-
-- 유튜브 클론코딩 프로젝트 입니다. 유튜브 메인화면, 상세화면, 검색에 대한 클론을 진행하였습니다.
-- 제작기간: 2023.4.27 ~ 2023.5.11
-
-## 폴더구조
-
-```
-src
-└ components
-  ├ Channels.jsx
-  ├ Header.jsx
-  ├ RelatedVideos.jsx
-  └ VideoItem.jsx
-└ pages
-  ├ Videos.jsx
-  ├ Detail.jsx
-  └ NotFound.jsx
-└ services
-  ├ fetcher.js
-  ├ fetcherClient.js
-  └ fakeFetcherClient.js
-└ utils
-  ├ scrollToTop.js
-  └ timeAgo.js
-```
+## 프로젝트 소개
+ React.js 기반의 유튜브 클론코딩 프로젝트 입니다.<br>유튜브 API를 이용해서 유튜브의 메인화면, 상세화면, 검색에 대한 개발을 진행하였습니다.
 
 ## 기술 스택
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=React Query&logoColor=white"> <img src="https://img.shields.io/badge/React Router-CA4245?style=for-the-badge&logo=React Router&logoColor=white"> <img src="https://img.shields.io/badge/Tainwind CSS-06B6D4?style=for-the-badge&logo=Tainwind CSS&logoColor=white">
 
-- React.js + JavaScript
-- 사용 라이브러리: `React Query`, `React Router DOM v.6`, `React Hook Form`, `React Helmet`, `Tailwind CSS`
+## 주요 기능
 
-## 구현사항
-
-- [x] 인기동영상 상위 25개 리스트 받아서 메인화면에 출력
-- [x] 목록의 영상 클릭 시 상세화면 이동하기
-- [x] 상세화면에서 영상, 영상 메타정보, 관련동영상 보여주기
-- [x] 검색 - 키워드에 해당하는 동영상들 보여주기
+- 인기동영상 상위 25개 리스트 받아서 메인화면에 출력
+- 목록의 영상 클릭 시 상세화면 이동하기
+- 상세화면에서 영상, 영상 메타정보, 관련동영상 보여주기
+- 검색 - 키워드에 해당하는 동영상들 보여주기
 
 ## 회고
 

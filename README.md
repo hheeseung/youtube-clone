@@ -11,7 +11,7 @@ https://guileless-narwhal-97a3d6.netlify.app/
  React.js 기반의 유튜브 클론코딩 프로젝트 입니다.<br>유튜브 API를 이용해서 유튜브의 메인화면, 상세화면, 검색에 대한 개발을 진행하였습니다.
 
 ## 기술 스택
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=React Query&logoColor=white"> <img src="https://img.shields.io/badge/React Router-CA4245?style=for-the-badge&logo=React Router&logoColor=white"> <img src="https://img.shields.io/badge/Tainwind CSS-06B6D4?style=for-the-badge&logo=Tainwind CSS&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React Query&logoColor=white"> <img src="https://img.shields.io/badge/React Router-CA4245?style=flat-square&logo=React Router&logoColor=white"> <img src="https://img.shields.io/badge/Tainwind CSS-06B6D4?style=flat-square&logo=Tainwind CSS&logoColor=white">
 
 ## 주요 기능
 
